@@ -1,0 +1,46 @@
+name: Bundesliga-Daten spiegeln
+
+# Holt stuendlich die OpenLigaDB-Daten und legt sie samt gerechneter Prognosebasis
+# unter daten/ ab. Die Prognose-Routine liest von dort, weil sie selbst keine
+# Sportdatenquelle erreichen darf.
+
+on:
+  schedule:
+    # Stuendlich zur Minute 17 - bewusst nicht zur vollen Stunde, da laufen die
+    # Zeitplaene der halben Welt gleichzeitig los.
+    - cron: "17 * * * *"
+  workflow_dispatch:        # erlaubt den Lauf von Hand ueber den Actions-Tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spiegel
+  cancel-in-progress: false
+
+jobs:
+  spiegeln:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Daten holen und Modell rechnen
+        run: python sync.py
+
+      - name: Aenderungen committen
+        run: |
+          git config user.name "bundesliga-spiegel"
+          git config user.email "actions@users.noreply.github.com"
+          git add daten
+          if git diff --staged --quiet; then
+            echo "Keine Aenderungen - nichts zu committen."
+          else
+            git commit -m "Daten aktualisiert $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
