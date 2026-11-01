@@ -7493,13 +7493,13 @@
    "tla": null,
    "wikidataId": "Q104770"
   },
-  "lastUpdateDateTime": "2026-11-01T15:40:58.103",
+  "lastUpdateDateTime": "2026-11-01T16:17:24.03",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130696,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 1,
     "resultTypeID": 1,
