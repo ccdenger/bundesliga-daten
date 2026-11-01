@@ -7493,10 +7493,45 @@
    "tla": null,
    "wikidataId": "Q104770"
   },
-  "lastUpdateDateTime": "2026-09-10T17:27:28.627",
+  "lastUpdateDateTime": "2026-11-01T15:40:58.103",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130696,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130697,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 151938,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 10,
+    "goalGetterID": 19204,
+    "goalGetterName": "J. Haberer",
+    "scoringTeamId": 80,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },

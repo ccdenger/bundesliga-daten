@@ -182,18 +182,32 @@
   "goalDiff": -10
  },
  {
+  "teamInfoId": 80,
+  "teamName": "1. FC Union Berlin",
+  "shortName": "Union Berlin",
+  "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
+  "points": 9,
+  "opponentGoals": 18,
+  "goals": 7,
+  "matches": 8,
+  "won": 2,
+  "lost": 3,
+  "draw": 3,
+  "goalDiff": -11
+ },
+ {
   "teamInfoId": 65,
   "teamName": "1. FC Köln",
   "shortName": "Köln",
   "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
   "points": 8,
-  "opponentGoals": 11,
+  "opponentGoals": 12,
   "goals": 8,
-  "matches": 7,
+  "matches": 8,
   "won": 2,
-  "lost": 3,
+  "lost": 4,
   "draw": 2,
-  "goalDiff": -3
+  "goalDiff": -4
  },
  {
   "teamInfoId": 91,
@@ -222,20 +236,6 @@
   "lost": 4,
   "draw": 3,
   "goalDiff": -5
- },
- {
-  "teamInfoId": 80,
-  "teamName": "1. FC Union Berlin",
-  "shortName": "Union Berlin",
-  "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
-  "points": 6,
-  "opponentGoals": 18,
-  "goals": 6,
-  "matches": 7,
-  "won": 1,
-  "lost": 3,
-  "draw": 3,
-  "goalDiff": -12
  },
  {
   "teamInfoId": 87,
