@@ -112,6 +112,20 @@
   "goalDiff": 0
  },
  {
+  "teamInfoId": 100,
+  "teamName": "Hamburger SV",
+  "shortName": "HSV",
+  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+  "points": 10,
+  "opponentGoals": 17,
+  "goals": 7,
+  "matches": 8,
+  "won": 3,
+  "lost": 4,
+  "draw": 1,
+  "goalDiff": -10
+ },
+ {
   "teamInfoId": 95,
   "teamName": "FC Augsburg",
   "shortName": "Augsburg",
@@ -154,6 +168,20 @@
   "goalDiff": -2
  },
  {
+  "teamInfoId": 65,
+  "teamName": "1. FC Köln",
+  "shortName": "Köln",
+  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
+  "points": 9,
+  "opponentGoals": 12,
+  "goals": 9,
+  "matches": 8,
+  "won": 2,
+  "lost": 3,
+  "draw": 3,
+  "goalDiff": -3
+ },
+ {
   "teamInfoId": 31,
   "teamName": "SC Paderborn 07",
   "shortName": "Paderborn",
@@ -168,60 +196,32 @@
   "goalDiff": -3
  },
  {
-  "teamInfoId": 100,
-  "teamName": "Hamburger SV",
-  "shortName": "HSV",
-  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+  "teamInfoId": 91,
+  "teamName": "Eintracht Frankfurt",
+  "shortName": "Frankfurt",
+  "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
   "points": 9,
-  "opponentGoals": 16,
-  "goals": 6,
-  "matches": 7,
-  "won": 3,
-  "lost": 4,
-  "draw": 0,
-  "goalDiff": -10
+  "opponentGoals": 18,
+  "goals": 11,
+  "matches": 8,
+  "won": 2,
+  "lost": 3,
+  "draw": 3,
+  "goalDiff": -7
  },
  {
   "teamInfoId": 80,
   "teamName": "1. FC Union Berlin",
   "shortName": "Union Berlin",
   "teamIconUrl": "https://assets.dfb.de/uploads/000/018/232/small_union-Berlin.jpg",
-  "points": 9,
-  "opponentGoals": 18,
+  "points": 7,
+  "opponentGoals": 19,
   "goals": 7,
   "matches": 8,
-  "won": 2,
+  "won": 1,
   "lost": 3,
-  "draw": 3,
-  "goalDiff": -11
- },
- {
-  "teamInfoId": 65,
-  "teamName": "1. FC Köln",
-  "shortName": "Köln",
-  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
-  "points": 8,
-  "opponentGoals": 12,
-  "goals": 8,
-  "matches": 8,
-  "won": 2,
-  "lost": 4,
-  "draw": 2,
-  "goalDiff": -4
- },
- {
-  "teamInfoId": 91,
-  "teamName": "Eintracht Frankfurt",
-  "shortName": "Frankfurt",
-  "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
-  "points": 8,
-  "opponentGoals": 17,
-  "goals": 10,
-  "matches": 7,
-  "won": 2,
-  "lost": 3,
-  "draw": 2,
-  "goalDiff": -7
+  "draw": 4,
+  "goalDiff": -12
  },
  {
   "teamInfoId": 9,
