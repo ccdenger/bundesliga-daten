@@ -7580,14 +7580,14 @@
    "tla": null,
    "wikidataId": "Q51974"
   },
-  "lastUpdateDateTime": "2026-11-01T17:44:56.3",
+  "lastUpdateDateTime": "2026-11-01T18:38:02.123",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130712,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam1": 1,
+    "pointsTeam2": 1,
     "resultOrderID": 1,
     "resultTypeID": 1,
     "resultTypeKind": "HalfTime",
@@ -7596,7 +7596,7 @@
    {
     "resultID": 130713,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
+    "pointsTeam1": 2,
     "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -7626,6 +7626,19 @@
     "goalGetterID": 27712,
     "goalGetterName": "T. Moffi",
     "scoringTeamId": 100,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 151986,
+    "scoreTeam1": 2,
+    "scoreTeam2": 1,
+    "matchMinute": 47,
+    "goalGetterID": 23792,
+    "goalGetterName": "R. Onyedika",
+    "scoringTeamId": 91,
     "isPenalty": false,
     "isOwnGoal": false,
     "isOvertime": false,

@@ -98,6 +98,20 @@
   "goalDiff": 0
  },
  {
+  "teamInfoId": 91,
+  "teamName": "Eintracht Frankfurt",
+  "shortName": "Frankfurt",
+  "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+  "points": 11,
+  "opponentGoals": 18,
+  "goals": 12,
+  "matches": 8,
+  "won": 3,
+  "lost": 3,
+  "draw": 2,
+  "goalDiff": -6
+ },
+ {
   "teamInfoId": 81,
   "teamName": "1. FSV Mainz 05",
   "shortName": "Mainz",
@@ -110,20 +124,6 @@
   "lost": 4,
   "draw": 1,
   "goalDiff": 0
- },
- {
-  "teamInfoId": 100,
-  "teamName": "Hamburger SV",
-  "shortName": "HSV",
-  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
-  "points": 10,
-  "opponentGoals": 17,
-  "goals": 7,
-  "matches": 8,
-  "won": 3,
-  "lost": 4,
-  "draw": 1,
-  "goalDiff": -10
  },
  {
   "teamInfoId": 95,
@@ -196,18 +196,18 @@
   "goalDiff": -3
  },
  {
-  "teamInfoId": 91,
-  "teamName": "Eintracht Frankfurt",
-  "shortName": "Frankfurt",
-  "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
+  "teamInfoId": 100,
+  "teamName": "Hamburger SV",
+  "shortName": "HSV",
+  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
   "points": 9,
   "opponentGoals": 18,
-  "goals": 11,
+  "goals": 7,
   "matches": 8,
-  "won": 2,
-  "lost": 3,
-  "draw": 3,
-  "goalDiff": -7
+  "won": 3,
+  "lost": 5,
+  "draw": 0,
+  "goalDiff": -11
  },
  {
   "teamInfoId": 80,
