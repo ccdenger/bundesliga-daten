@@ -104,12 +104,12 @@
   "teamIconUrl": "https://i.imgur.com/X8NFkOb.png",
   "points": 11,
   "opponentGoals": 18,
-  "goals": 12,
+  "goals": 13,
   "matches": 8,
   "won": 3,
   "lost": 3,
   "draw": 2,
-  "goalDiff": -6
+  "goalDiff": -5
  },
  {
   "teamInfoId": 81,
@@ -201,13 +201,13 @@
   "shortName": "HSV",
   "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
   "points": 9,
-  "opponentGoals": 18,
+  "opponentGoals": 19,
   "goals": 7,
   "matches": 8,
   "won": 3,
   "lost": 5,
   "draw": 0,
-  "goalDiff": -11
+  "goalDiff": -12
  },
  {
   "teamInfoId": 80,
