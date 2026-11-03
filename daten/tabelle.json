@@ -11,7 +11,10 @@
   "won": 5,
   "lost": 0,
   "draw": 3,
-  "goalDiff": 19
+  "goalDiff": 19,
+  "teamId": 40,
+  "tla": null,
+  "wikidataId": "Q15789"
  },
  {
   "teamInfoId": 7,
@@ -25,7 +28,10 @@
   "won": 5,
   "lost": 0,
   "draw": 3,
-  "goalDiff": 8
+  "goalDiff": 8,
+  "teamId": 7,
+  "tla": null,
+  "wikidataId": "Q41420"
  },
  {
   "teamInfoId": 112,
@@ -39,7 +45,10 @@
   "won": 5,
   "lost": 2,
   "draw": 1,
-  "goalDiff": 8
+  "goalDiff": 8,
+  "teamId": 112,
+  "tla": null,
+  "wikidataId": "Q106394"
  },
  {
   "teamInfoId": 1635,
@@ -53,7 +62,10 @@
   "won": 5,
   "lost": 3,
   "draw": 0,
-  "goalDiff": 11
+  "goalDiff": 11,
+  "teamId": 1635,
+  "tla": null,
+  "wikidataId": null
  },
  {
   "teamInfoId": 134,
@@ -67,7 +79,10 @@
   "won": 4,
   "lost": 1,
   "draw": 3,
-  "goalDiff": 3
+  "goalDiff": 3,
+  "teamId": 134,
+  "tla": null,
+  "wikidataId": null
  },
  {
   "teamInfoId": 6,
@@ -81,7 +96,10 @@
   "won": 4,
   "lost": 3,
   "draw": 1,
-  "goalDiff": 2
+  "goalDiff": 2,
+  "teamId": 6,
+  "tla": null,
+  "wikidataId": "Q104761"
  },
  {
   "teamInfoId": 198,
@@ -95,7 +113,10 @@
   "won": 4,
   "lost": 3,
   "draw": 1,
-  "goalDiff": 0
+  "goalDiff": 0,
+  "teamId": 198,
+  "tla": null,
+  "wikidataId": null
  },
  {
   "teamInfoId": 91,
@@ -109,7 +130,10 @@
   "won": 3,
   "lost": 3,
   "draw": 2,
-  "goalDiff": -5
+  "goalDiff": -5,
+  "teamId": 91,
+  "tla": null,
+  "wikidataId": "Q38245"
  },
  {
   "teamInfoId": 81,
@@ -123,7 +147,10 @@
   "won": 3,
   "lost": 4,
   "draw": 1,
-  "goalDiff": 0
+  "goalDiff": 0,
+  "teamId": 81,
+  "tla": null,
+  "wikidataId": "Q105254"
  },
  {
   "teamInfoId": 95,
@@ -137,7 +164,10 @@
   "won": 2,
   "lost": 3,
   "draw": 3,
-  "goalDiff": 3
+  "goalDiff": 3,
+  "teamId": 95,
+  "tla": null,
+  "wikidataId": "Q15755"
  },
  {
   "teamInfoId": 16,
@@ -151,7 +181,10 @@
   "won": 3,
   "lost": 5,
   "draw": 0,
-  "goalDiff": -1
+  "goalDiff": -1,
+  "teamId": 16,
+  "tla": null,
+  "wikidataId": "Q4512"
  },
  {
   "teamInfoId": 175,
@@ -165,7 +198,10 @@
   "won": 3,
   "lost": 5,
   "draw": 0,
-  "goalDiff": -2
+  "goalDiff": -2,
+  "teamId": 175,
+  "tla": null,
+  "wikidataId": null
  },
  {
   "teamInfoId": 65,
@@ -179,7 +215,10 @@
   "won": 2,
   "lost": 3,
   "draw": 3,
-  "goalDiff": -3
+  "goalDiff": -3,
+  "teamId": 65,
+  "tla": null,
+  "wikidataId": "Q104770"
  },
  {
   "teamInfoId": 31,
@@ -193,7 +232,10 @@
   "won": 2,
   "lost": 3,
   "draw": 3,
-  "goalDiff": -3
+  "goalDiff": -3,
+  "teamId": 31,
+  "tla": null,
+  "wikidataId": "Q160532"
  },
  {
   "teamInfoId": 100,
@@ -207,7 +249,10 @@
   "won": 3,
   "lost": 5,
   "draw": 0,
-  "goalDiff": -12
+  "goalDiff": -12,
+  "teamId": 100,
+  "tla": null,
+  "wikidataId": "Q51974"
  },
  {
   "teamInfoId": 80,
@@ -221,7 +266,10 @@
   "won": 1,
   "lost": 3,
   "draw": 4,
-  "goalDiff": -12
+  "goalDiff": -12,
+  "teamId": 80,
+  "tla": null,
+  "wikidataId": "Q141971"
  },
  {
   "teamInfoId": 9,
@@ -235,7 +283,10 @@
   "won": 1,
   "lost": 4,
   "draw": 3,
-  "goalDiff": -5
+  "goalDiff": -5,
+  "teamId": 9,
+  "tla": null,
+  "wikidataId": "Q32494"
  },
  {
   "teamInfoId": 87,
@@ -249,6 +300,9 @@
   "won": 1,
   "lost": 6,
   "draw": 1,
-  "goalDiff": -11
+  "goalDiff": -11,
+  "teamId": 87,
+  "tla": null,
+  "wikidataId": null
  }
 ]
