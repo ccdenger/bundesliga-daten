@@ -7693,10 +7693,45 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-09-10T17:28:06.667",
+  "lastUpdateDateTime": "2026-11-06T20:40:44.817",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130907,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130908,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 152301,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 11,
+    "goalGetterID": 19315,
+    "goalGetterName": "M. Muheim",
+    "scoringTeamId": 100,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },
