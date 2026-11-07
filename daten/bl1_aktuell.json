@@ -7777,7 +7777,7 @@
  {
   "matchID": 83228,
   "matchDateTime": "2026-11-07T15:30:00",
-  "timeZoneID": "W. Europe Standard Time",
+  "timeZoneID": null,
   "leagueId": 4937,
   "leagueName": "1. Fußball-Bundesliga 2026/2027",
   "leagueSeason": 2026,
@@ -7806,8 +7806,8 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T16:46:27.123",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-07T17:28:46.127",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130954,
@@ -7822,8 +7822,8 @@
    {
     "resultID": 130955,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
-    "pointsTeam2": 0,
+    "pointsTeam1": 2,
+    "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -7843,6 +7843,32 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 152379,
+    "scoreTeam1": 2,
+    "scoreTeam2": 0,
+    "matchMinute": 71,
+    "goalGetterID": 19605,
+    "goalGetterName": "F. Nmecha",
+    "scoringTeamId": 7,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152381,
+    "scoreTeam1": 2,
+    "scoreTeam2": 1,
+    "matchMinute": 81,
+    "goalGetterID": 24917,
+    "goalGetterName": "N. Futkeu",
+    "scoringTeamId": 198,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
    }
   ],
   "location": null,
@@ -7851,7 +7877,7 @@
  {
   "matchID": 83229,
   "matchDateTime": "2026-11-07T15:30:00",
-  "timeZoneID": "W. Europe Standard Time",
+  "timeZoneID": null,
   "leagueId": 4937,
   "leagueName": "1. Fußball-Bundesliga 2026/2027",
   "leagueSeason": 2026,
@@ -7880,8 +7906,8 @@
    "tla": null,
    "wikidataId": "Q15755"
   },
-  "lastUpdateDateTime": "2026-11-07T16:18:49.57",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-07T17:48:13.46",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130956,
@@ -7896,8 +7922,8 @@
    {
     "resultID": 130960,
     "resultName": "Endergebnis",
-    "pointsTeam1": 3,
-    "pointsTeam2": 1,
+    "pointsTeam1": 5,
+    "pointsTeam2": 2,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -7905,6 +7931,19 @@
    }
   ],
   "goals": [
+   {
+    "goalID": 152384,
+    "scoreTeam1": 5,
+    "scoreTeam2": 2,
+    "matchMinute": null,
+    "goalGetterID": 0,
+    "goalGetterName": "",
+    "scoringTeamId": 95,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
    {
     "goalID": 152355,
     "scoreTeam1": 0,
@@ -7956,6 +7995,32 @@
     "isOwnGoal": false,
     "isOvertime": true,
     "comment": null
+   },
+   {
+    "goalID": 152375,
+    "scoreTeam1": 4,
+    "scoreTeam2": 1,
+    "matchMinute": 60,
+    "goalGetterID": 7906,
+    "goalGetterName": "Romulo",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152376,
+    "scoreTeam1": 5,
+    "scoreTeam2": 1,
+    "matchMinute": 66,
+    "goalGetterID": 18529,
+    "goalGetterName": "C. Baumgartner",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
    }
   ],
   "location": null,
@@ -7993,7 +8058,7 @@
    "tla": null,
    "wikidataId": "Q15789"
   },
-  "lastUpdateDateTime": "2026-11-07T16:45:53.693",
+  "lastUpdateDateTime": "2026-11-07T17:44:12.62",
   "matchIsFinished": false,
   "matchResults": [
    {
@@ -8009,8 +8074,8 @@
    {
     "resultID": 130959,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
-    "pointsTeam2": 1,
+    "pointsTeam1": 0,
+    "pointsTeam2": 2,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -8019,7 +8084,7 @@
   ],
   "goals": [
    {
-    "goalID": 152360,
+    "goalID": 152382,
     "scoreTeam1": 0,
     "scoreTeam2": 1,
     "matchMinute": 14,
@@ -8030,6 +8095,32 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 152374,
+    "scoreTeam1": 0,
+    "scoreTeam2": 2,
+    "matchMinute": 57,
+    "goalGetterID": 24138,
+    "goalGetterName": "Lennart Karl",
+    "scoringTeamId": 40,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152385,
+    "scoreTeam1": 1,
+    "scoreTeam2": 2,
+    "matchMinute": 93,
+    "goalGetterID": 18976,
+    "goalGetterName": "P. Tietz",
+    "scoringTeamId": 81,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": true,
+    "comment": null
    }
   ],
   "location": null,
@@ -8038,7 +8129,7 @@
  {
   "matchID": 83236,
   "matchDateTime": "2026-11-07T15:30:00",
-  "timeZoneID": "W. Europe Standard Time",
+  "timeZoneID": null,
   "leagueId": 4937,
   "leagueName": "1. Fußball-Bundesliga 2026/2027",
   "leagueSeason": 2026,
@@ -8067,8 +8158,8 @@
    "tla": null,
    "wikidataId": "Q38245"
   },
-  "lastUpdateDateTime": "2026-11-07T16:18:06.477",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-07T17:28:55.3",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130958,
@@ -8083,8 +8174,8 @@
    {
     "resultID": 130963,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
-    "pointsTeam2": 1,
+    "pointsTeam1": 2,
+    "pointsTeam2": 2,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -8092,6 +8183,19 @@
    }
   ],
   "goals": [
+   {
+    "goalID": 152383,
+    "scoreTeam1": 2,
+    "scoreTeam2": 2,
+    "matchMinute": null,
+    "goalGetterID": 0,
+    "goalGetterName": "",
+    "scoringTeamId": 91,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
    {
     "goalID": 152364,
     "scoreTeam1": 0,
@@ -8114,6 +8218,19 @@
     "goalGetterName": "R. Obermair",
     "scoringTeamId": 31,
     "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152380,
+    "scoreTeam1": 2,
+    "scoreTeam2": 1,
+    "matchMinute": 73,
+    "goalGetterID": 18446,
+    "goalGetterName": "M. Pieringer",
+    "scoringTeamId": 31,
+    "isPenalty": true,
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
