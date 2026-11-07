@@ -8271,13 +8271,13 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T18:38:04.2",
+  "lastUpdateDateTime": "2026-11-07T19:17:51.523",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130967,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 1,
     "resultTypeID": 1,
