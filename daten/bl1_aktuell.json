@@ -7806,9 +7806,30 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-07-03T08:13:19.017",
+  "lastUpdateDateTime": "2026-11-07T15:31:04.727",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 130954,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130955,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
   "goals": [],
   "location": null,
   "numberOfViewers": null
@@ -7845,10 +7866,45 @@
    "tla": null,
    "wikidataId": "Q15755"
   },
-  "lastUpdateDateTime": "2026-07-03T08:13:32.553",
+  "lastUpdateDateTime": "2026-11-07T15:33:48.18",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130956,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130960,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 152355,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 1,
+    "goalGetterID": 24260,
+    "goalGetterName": "A. Kade",
+    "scoringTeamId": 95,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },
@@ -7884,10 +7940,45 @@
    "tla": null,
    "wikidataId": "Q15789"
   },
-  "lastUpdateDateTime": "2026-07-03T08:14:18.987",
+  "lastUpdateDateTime": "2026-11-07T15:44:40.77",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130957,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130959,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 152360,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 14,
+    "goalGetterID": 15977,
+    "goalGetterName": "J. Kimmich",
+    "scoringTeamId": 40,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },
@@ -7923,9 +8014,20 @@
    "tla": null,
    "wikidataId": "Q38245"
   },
-  "lastUpdateDateTime": "2026-07-03T08:14:49.117",
+  "lastUpdateDateTime": "2026-11-07T15:31:11.993",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 130958,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   }
+  ],
   "goals": [],
   "location": null,
   "numberOfViewers": null

@@ -1,5 +1,5 @@
 {
- "erstellt": "2026-11-07T13:56:36Z",
+ "erstellt": "2026-11-07T14:50:30Z",
  "saison": 2026,
  "spieltag": 10,
  "erster_anpfiff": "2026-11-20T20:30",
@@ -58,11 +58,11 @@
    "tabelle": {
     "heim": {
      "platz": 1,
-     "punkte": 18,
-     "spiele": 8,
-     "tore": 27,
+     "punkte": 21,
+     "spiele": 9,
+     "tore": 28,
      "gegentore": 8,
-     "diff": 19
+     "diff": 20
     },
     "auswaerts": {
      "platz": 14,
@@ -191,7 +191,7 @@
    ],
    "tabelle": {
     "heim": {
-     "platz": 6,
+     "platz": 7,
      "punkte": 13,
      "spiele": 8,
      "tore": 18,
@@ -322,7 +322,7 @@
    ],
    "tabelle": {
     "heim": {
-     "platz": 9,
+     "platz": 10,
      "punkte": 11,
      "spiele": 8,
      "tore": 13,
@@ -466,10 +466,10 @@
     "auswaerts": {
      "platz": 4,
      "punkte": 15,
-     "spiele": 8,
+     "spiele": 9,
      "tore": 22,
-     "gegentore": 11,
-     "diff": 11
+     "gegentore": 12,
+     "diff": 10
     }
    },
    "form": {
@@ -599,8 +599,8 @@
     },
     "auswaerts": {
      "platz": 2,
-     "punkte": 18,
-     "spiele": 8,
+     "punkte": 19,
+     "spiele": 9,
      "tore": 14,
      "gegentore": 6,
      "diff": 8
@@ -724,9 +724,9 @@
    ],
    "tabelle": {
     "heim": {
-     "platz": 7,
-     "punkte": 13,
-     "spiele": 8,
+     "platz": 6,
+     "punkte": 14,
+     "spiele": 9,
      "tore": 16,
      "gegentore": 16,
      "diff": 0
@@ -986,20 +986,20 @@
    ],
    "tabelle": {
     "heim": {
-     "platz": 11,
-     "punkte": 9,
-     "spiele": 8,
-     "tore": 18,
+     "platz": 8,
+     "punkte": 12,
+     "spiele": 9,
+     "tore": 19,
      "gegentore": 15,
-     "diff": 3
+     "diff": 4
     },
     "auswaerts": {
-     "platz": 10,
+     "platz": 11,
      "punkte": 10,
-     "spiele": 8,
+     "spiele": 9,
      "tore": 17,
-     "gegentore": 17,
-     "diff": 0
+     "gegentore": 18,
+     "diff": -1
     }
    },
    "form": {
@@ -1128,7 +1128,7 @@
      "diff": 3
     },
     "auswaerts": {
-     "platz": 8,
+     "platz": 9,
      "punkte": 12,
      "spiele": 9,
      "tore": 10,
