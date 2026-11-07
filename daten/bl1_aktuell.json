@@ -7806,7 +7806,7 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T15:31:04.727",
+  "lastUpdateDateTime": "2026-11-07T16:46:27.123",
   "matchIsFinished": false,
   "matchResults": [
    {
@@ -7822,7 +7822,7 @@
    {
     "resultID": 130955,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -7830,7 +7830,21 @@
     "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
    }
   ],
-  "goals": [],
+  "goals": [
+   {
+    "goalID": 152372,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 55,
+    "goalGetterID": 19605,
+    "goalGetterName": "F. Nmecha",
+    "scoringTeamId": 7,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },
@@ -7866,14 +7880,14 @@
    "tla": null,
    "wikidataId": "Q15755"
   },
-  "lastUpdateDateTime": "2026-11-07T15:33:48.18",
+  "lastUpdateDateTime": "2026-11-07T16:18:49.57",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130956,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam1": 3,
+    "pointsTeam2": 1,
     "resultOrderID": 1,
     "resultTypeID": 1,
     "resultTypeKind": "HalfTime",
@@ -7882,7 +7896,7 @@
    {
     "resultID": 130960,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
+    "pointsTeam1": 3,
     "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -7903,6 +7917,45 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 152367,
+    "scoreTeam1": 1,
+    "scoreTeam2": 1,
+    "matchMinute": 34,
+    "goalGetterID": 23595,
+    "goalGetterName": "E. Banzuzi",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152368,
+    "scoreTeam1": 2,
+    "scoreTeam2": 1,
+    "matchMinute": 35,
+    "goalGetterID": 18782,
+    "goalGetterName": "C. Nkunku",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152371,
+    "scoreTeam1": 3,
+    "scoreTeam2": 1,
+    "matchMinute": 46,
+    "goalGetterID": 18358,
+    "goalGetterName": "D. Raum",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": true,
+    "comment": null
    }
   ],
   "location": null,
@@ -7911,7 +7964,7 @@
  {
   "matchID": 83233,
   "matchDateTime": "2026-11-07T15:30:00",
-  "timeZoneID": "W. Europe Standard Time",
+  "timeZoneID": null,
   "leagueId": 4937,
   "leagueName": "1. Fußball-Bundesliga 2026/2027",
   "leagueSeason": 2026,
@@ -7940,14 +7993,14 @@
    "tla": null,
    "wikidataId": "Q15789"
   },
-  "lastUpdateDateTime": "2026-11-07T15:44:40.77",
+  "lastUpdateDateTime": "2026-11-07T16:45:53.693",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130957,
     "resultName": "Halbzeit",
     "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam2": 1,
     "resultOrderID": 1,
     "resultTypeID": 1,
     "resultTypeKind": "HalfTime",
@@ -7956,7 +8009,7 @@
    {
     "resultID": 130959,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -8014,21 +8067,58 @@
    "tla": null,
    "wikidataId": "Q38245"
   },
-  "lastUpdateDateTime": "2026-11-07T15:31:11.993",
+  "lastUpdateDateTime": "2026-11-07T16:18:06.477",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130958,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam1": 1,
+    "pointsTeam2": 1,
     "resultOrderID": 1,
     "resultTypeID": 1,
     "resultTypeKind": "HalfTime",
     "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130963,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
    }
   ],
-  "goals": [],
+  "goals": [
+   {
+    "goalID": 152364,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 23,
+    "goalGetterID": 19126,
+    "goalGetterName": "J. Burkardt",
+    "scoringTeamId": 91,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152370,
+    "scoreTeam1": 1,
+    "scoreTeam2": 1,
+    "matchMinute": 45,
+    "goalGetterID": 19470,
+    "goalGetterName": "R. Obermair",
+    "scoringTeamId": 31,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },
