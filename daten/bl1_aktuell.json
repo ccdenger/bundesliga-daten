@@ -8242,7 +8242,7 @@
  {
   "matchID": 83230,
   "matchDateTime": "2026-11-07T18:30:00",
-  "timeZoneID": "W. Europe Standard Time",
+  "timeZoneID": null,
   "leagueId": 4937,
   "leagueName": "1. Fußball-Bundesliga 2026/2027",
   "leagueSeason": 2026,
@@ -8271,8 +8271,8 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T19:17:51.523",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-07T20:27:05.163",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130967,
