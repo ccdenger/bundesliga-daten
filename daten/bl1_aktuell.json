@@ -7806,7 +7806,7 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T17:28:46.127",
+  "lastUpdateDateTime": "2026-11-07T23:17:21.11",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -7871,7 +7871,11 @@
     "comment": null
    }
   ],
-  "location": null,
+  "location": {
+   "locationID": 35,
+   "locationCity": "Dortmund",
+   "locationStadium": "Signal Iduna Park"
+  },
   "numberOfViewers": null
  },
  {
