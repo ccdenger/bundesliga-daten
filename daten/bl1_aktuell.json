@@ -7906,7 +7906,7 @@
    "tla": null,
    "wikidataId": "Q15755"
   },
-  "lastUpdateDateTime": "2026-11-07T17:48:13.46",
+  "lastUpdateDateTime": "2026-11-07T17:55:34.02",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -7931,19 +7931,6 @@
    }
   ],
   "goals": [
-   {
-    "goalID": 152384,
-    "scoreTeam1": 5,
-    "scoreTeam2": 2,
-    "matchMinute": null,
-    "goalGetterID": 0,
-    "goalGetterName": "",
-    "scoringTeamId": 95,
-    "isPenalty": false,
-    "isOwnGoal": false,
-    "isOvertime": false,
-    "comment": null
-   },
    {
     "goalID": 152355,
     "scoreTeam1": 0,
@@ -8021,6 +8008,19 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 152384,
+    "scoreTeam1": 5,
+    "scoreTeam2": 2,
+    "matchMinute": 93,
+    "goalGetterID": 28147,
+    "goalGetterName": "Uchenna Ogundu",
+    "scoringTeamId": 95,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": true,
+    "comment": null
    }
   ],
   "location": null,
@@ -8058,8 +8058,8 @@
    "tla": null,
    "wikidataId": "Q15789"
   },
-  "lastUpdateDateTime": "2026-11-07T17:44:12.62",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-07T17:53:06.043",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130957,
@@ -8074,7 +8074,7 @@
    {
     "resultID": 130959,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 2,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -8158,7 +8158,7 @@
    "tla": null,
    "wikidataId": "Q38245"
   },
-  "lastUpdateDateTime": "2026-11-07T17:28:55.3",
+  "lastUpdateDateTime": "2026-11-07T17:50:05.49",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8183,19 +8183,6 @@
    }
   ],
   "goals": [
-   {
-    "goalID": 152383,
-    "scoreTeam1": 2,
-    "scoreTeam2": 2,
-    "matchMinute": null,
-    "goalGetterID": 0,
-    "goalGetterName": "",
-    "scoringTeamId": 91,
-    "isPenalty": false,
-    "isOwnGoal": false,
-    "isOvertime": false,
-    "comment": null
-   },
    {
     "goalID": 152364,
     "scoreTeam1": 0,
@@ -8234,6 +8221,19 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 152383,
+    "scoreTeam1": 2,
+    "scoreTeam2": 2,
+    "matchMinute": 93,
+    "goalGetterID": 19126,
+    "goalGetterName": "J. Burkardt",
+    "scoringTeamId": 91,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": true,
+    "comment": null
    }
   ],
   "location": null,
@@ -8271,10 +8271,45 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-09-10T17:28:25.883",
+  "lastUpdateDateTime": "2026-11-07T18:38:04.2",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130967,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130968,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 152389,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 7,
+    "goalGetterID": 24990,
+    "goalGetterName": "M. Mittelstädt",
+    "scoringTeamId": 16,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": null,
   "numberOfViewers": null
  },
