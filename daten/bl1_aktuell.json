@@ -8291,7 +8291,7 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T20:27:05.163",
+  "lastUpdateDateTime": "2026-11-08T11:52:08.923",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8330,8 +8330,12 @@
     "comment": null
    }
   ],
-  "location": null,
-  "numberOfViewers": null
+  "location": {
+   "locationID": 1493,
+   "locationCity": "Stuttgart",
+   "locationStadium": "MHP-Arena"
+  },
+  "numberOfViewers": 60058
  },
  {
   "matchID": 83235,
@@ -8365,11 +8369,15 @@
    "tla": null,
    "wikidataId": "Q104761"
   },
-  "lastUpdateDateTime": "2026-09-10T17:28:40.24",
+  "lastUpdateDateTime": "2026-11-08T11:52:27",
   "matchIsFinished": false,
   "matchResults": [],
   "goals": [],
-  "location": null,
+  "location": {
+   "locationID": 509,
+   "locationCity": "Köln",
+   "locationStadium": "RheinEnergieStadion "
+  },
   "numberOfViewers": null
  },
  {
@@ -8404,11 +8412,15 @@
    "tla": null,
    "wikidataId": "Q141971"
   },
-  "lastUpdateDateTime": "2026-09-10T17:28:56.027",
+  "lastUpdateDateTime": "2026-11-08T11:52:39.633",
   "matchIsFinished": false,
   "matchResults": [],
   "goals": [],
-  "location": null,
+  "location": {
+   "locationID": 1484,
+   "locationCity": "Freiburg",
+   "locationStadium": "Europa-Park Stadion"
+  },
   "numberOfViewers": null
  },
  {
@@ -8443,11 +8455,15 @@
    "tla": null,
    "wikidataId": "Q32494"
   },
-  "lastUpdateDateTime": "2026-09-10T17:29:08.703",
+  "lastUpdateDateTime": "2026-11-08T11:52:51.033",
   "matchIsFinished": false,
   "matchResults": [],
   "goals": [],
-  "location": null,
+  "location": {
+   "locationID": 1905,
+   "locationCity": "Sinsheim",
+   "locationStadium": "SNP Arena"
+  },
   "numberOfViewers": null
  },
  {
