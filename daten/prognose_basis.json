@@ -1,5 +1,5 @@
 {
- "erstellt": "2026-11-08T13:56:36Z",
+ "erstellt": "2026-11-08T14:49:03Z",
  "saison": 2026,
  "spieltag": 10,
  "erster_anpfiff": "2026-11-20T20:30",
@@ -67,10 +67,10 @@
     "auswaerts": {
      "platz": 15,
      "punkte": 9,
-     "spiele": 8,
+     "spiele": 9,
      "tore": 9,
-     "gegentore": 12,
-     "diff": -3
+     "gegentore": 13,
+     "diff": -4
     }
    },
    "form": {
@@ -191,12 +191,12 @@
    ],
    "tabelle": {
     "heim": {
-     "platz": 6,
-     "punkte": 13,
-     "spiele": 8,
-     "tore": 18,
+     "platz": 5,
+     "punkte": 16,
+     "spiele": 9,
+     "tore": 19,
      "gegentore": 16,
-     "diff": 2
+     "diff": 3
     },
     "auswaerts": {
      "platz": 12,
@@ -1120,7 +1120,7 @@
    ],
    "tabelle": {
     "heim": {
-     "platz": 5,
+     "platz": 6,
      "punkte": 15,
      "spiele": 9,
      "tore": 17,

@@ -8369,10 +8369,45 @@
    "tla": null,
    "wikidataId": "Q104761"
   },
-  "lastUpdateDateTime": "2026-11-08T11:52:27",
+  "lastUpdateDateTime": "2026-11-08T15:37:37.893",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130983,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130984,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 152422,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 7,
+    "goalGetterID": 27187,
+    "goalGetterName": "A. Garcia",
+    "scoringTeamId": 6,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 509,
    "locationCity": "Köln",
