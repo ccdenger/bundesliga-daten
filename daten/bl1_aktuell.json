@@ -8473,8 +8473,8 @@
    "tla": null,
    "wikidataId": "Q141971"
   },
-  "lastUpdateDateTime": "2026-11-08T18:44:49.167",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-08T19:23:53.827",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130993,
@@ -8489,7 +8489,7 @@
    {
     "resultID": 130994,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
+    "pointsTeam1": 2,
     "pointsTeam2": 0,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -8508,6 +8508,19 @@
     "scoringTeamId": 112,
     "isPenalty": false,
     "isOwnGoal": true,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152431,
+    "scoreTeam1": 2,
+    "scoreTeam2": 0,
+    "matchMinute": 67,
+    "goalGetterID": 24246,
+    "goalGetterName": "Y. Suzuki",
+    "scoringTeamId": 112,
+    "isPenalty": false,
+    "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
    }
@@ -8551,10 +8564,45 @@
    "tla": null,
    "wikidataId": "Q32494"
   },
-  "lastUpdateDateTime": "2026-11-08T11:52:51.033",
+  "lastUpdateDateTime": "2026-11-08T19:40:48.953",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 130997,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130998,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 152435,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 10,
+    "goalGetterID": 20687,
+    "goalGetterName": "F. Asllani",
+    "scoringTeamId": 175,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 1905,
    "locationCity": "Sinsheim",
