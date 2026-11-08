@@ -8369,7 +8369,7 @@
    "tla": null,
    "wikidataId": "Q104761"
   },
-  "lastUpdateDateTime": "2026-11-08T17:24:57.797",
+  "lastUpdateDateTime": "2026-11-08T21:20:15.487",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8439,7 +8439,7 @@
    "locationCity": "Köln",
    "locationStadium": "RheinEnergieStadion "
   },
-  "numberOfViewers": null
+  "numberOfViewers": 50000
  },
  {
   "matchID": 83232,
@@ -8473,7 +8473,7 @@
    "tla": null,
    "wikidataId": "Q141971"
   },
-  "lastUpdateDateTime": "2026-11-08T19:23:53.827",
+  "lastUpdateDateTime": "2026-11-08T21:20:27.223",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8530,7 +8530,7 @@
    "locationCity": "Freiburg",
    "locationStadium": "Europa-Park Stadion"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 33400
  },
  {
   "matchID": 83231,
@@ -8564,8 +8564,8 @@
    "tla": null,
    "wikidataId": "Q32494"
   },
-  "lastUpdateDateTime": "2026-11-08T20:16:43.427",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-08T21:42:05.193",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130997,
@@ -8581,7 +8581,7 @@
     "resultID": 130998,
     "resultName": "Endergebnis",
     "pointsTeam1": 2,
-    "pointsTeam2": 0,
+    "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -8614,6 +8614,19 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 152468,
+    "scoreTeam1": 2,
+    "scoreTeam2": 1,
+    "matchMinute": 81,
+    "goalGetterID": 22890,
+    "goalGetterName": "J. Adamu",
+    "scoringTeamId": 9,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
    }
   ],
   "location": {
@@ -8621,7 +8634,7 @@
    "locationCity": "Sinsheim",
    "locationStadium": "SNP Arena"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 28369
  },
  {
   "matchID": 83237,
