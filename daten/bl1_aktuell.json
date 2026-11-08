@@ -8473,7 +8473,7 @@
    "tla": null,
    "wikidataId": "Q141971"
   },
-  "lastUpdateDateTime": "2026-11-08T17:30:15.387",
+  "lastUpdateDateTime": "2026-11-08T18:44:49.167",
   "matchIsFinished": false,
   "matchResults": [
    {
@@ -8489,7 +8489,7 @@
    {
     "resultID": 130994,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -8497,7 +8497,21 @@
     "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
    }
   ],
-  "goals": [],
+  "goals": [
+   {
+    "goalID": 152430,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 55,
+    "goalGetterID": 785,
+    "goalGetterName": "R. Khedira",
+    "scoringTeamId": 112,
+    "isPenalty": false,
+    "isOwnGoal": true,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 1484,
    "locationCity": "Freiburg",
