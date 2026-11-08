@@ -8564,13 +8564,13 @@
    "tla": null,
    "wikidataId": "Q32494"
   },
-  "lastUpdateDateTime": "2026-11-08T19:40:48.953",
+  "lastUpdateDateTime": "2026-11-08T20:16:43.427",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 130997,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
+    "pointsTeam1": 2,
     "pointsTeam2": 0,
     "resultOrderID": 1,
     "resultTypeID": 1,
@@ -8580,7 +8580,7 @@
    {
     "resultID": 130998,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
+    "pointsTeam1": 2,
     "pointsTeam2": 0,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -8596,6 +8596,19 @@
     "matchMinute": 10,
     "goalGetterID": 20687,
     "goalGetterName": "F. Asllani",
+    "scoringTeamId": 175,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152462,
+    "scoreTeam1": 2,
+    "scoreTeam2": 0,
+    "matchMinute": 26,
+    "goalGetterID": 19004,
+    "goalGetterName": "T. Lemperle",
     "scoringTeamId": 175,
     "isPenalty": false,
     "isOwnGoal": false,

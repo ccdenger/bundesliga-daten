@@ -119,6 +119,23 @@
   "wikidataId": null
  },
  {
+  "teamInfoId": 175,
+  "teamName": "TSG Hoffenheim",
+  "shortName": "Hoffenheim",
+  "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
+  "points": 12,
+  "opponentGoals": 16,
+  "goals": 16,
+  "matches": 9,
+  "won": 4,
+  "lost": 5,
+  "draw": 0,
+  "goalDiff": 0,
+  "teamId": 175,
+  "tla": null,
+  "wikidataId": null
+ },
+ {
   "teamInfoId": 16,
   "teamName": "VfB Stuttgart",
   "shortName": "Stuttgart",
@@ -134,23 +151,6 @@
   "teamId": 16,
   "tla": null,
   "wikidataId": "Q4512"
- },
- {
-  "teamInfoId": 175,
-  "teamName": "TSG Hoffenheim",
-  "shortName": "Hoffenheim",
-  "teamIconUrl": "https://i.imgur.com/gF0PfEl.png",
-  "points": 12,
-  "opponentGoals": 16,
-  "goals": 15,
-  "matches": 9,
-  "won": 4,
-  "lost": 5,
-  "draw": 0,
-  "goalDiff": -1,
-  "teamId": 175,
-  "tla": null,
-  "wikidataId": null
  },
  {
   "teamInfoId": 91,
@@ -277,13 +277,13 @@
   "shortName": "S04",
   "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
   "points": 6,
-  "opponentGoals": 10,
+  "opponentGoals": 11,
   "goals": 4,
   "matches": 9,
   "won": 1,
   "lost": 5,
   "draw": 3,
-  "goalDiff": -6,
+  "goalDiff": -7,
   "teamId": 9,
   "tla": null,
   "wikidataId": "Q32494"
