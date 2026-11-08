@@ -8369,8 +8369,8 @@
    "tla": null,
    "wikidataId": "Q104761"
   },
-  "lastUpdateDateTime": "2026-11-08T16:16:52.213",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-08T17:24:57.797",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 130983,
@@ -8385,8 +8385,8 @@
    {
     "resultID": 130984,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
-    "pointsTeam2": 1,
+    "pointsTeam1": 1,
+    "pointsTeam2": 2,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -8405,6 +8405,32 @@
     "isPenalty": false,
     "isOwnGoal": false,
     "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152427,
+    "scoreTeam1": 0,
+    "scoreTeam2": 2,
+    "matchMinute": 85,
+    "goalGetterID": 18331,
+    "goalGetterName": "P. Schick",
+    "scoringTeamId": 6,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 152428,
+    "scoreTeam1": 1,
+    "scoreTeam2": 2,
+    "matchMinute": 92,
+    "goalGetterID": 21344,
+    "goalGetterName": "S. El Mala",
+    "scoringTeamId": 65,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": true,
     "comment": null
    }
   ],
@@ -8447,9 +8473,30 @@
    "tla": null,
    "wikidataId": "Q141971"
   },
-  "lastUpdateDateTime": "2026-11-08T11:52:39.633",
+  "lastUpdateDateTime": "2026-11-08T17:30:15.387",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 130993,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 130994,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
   "goals": [],
   "location": {
    "locationID": 1484,
