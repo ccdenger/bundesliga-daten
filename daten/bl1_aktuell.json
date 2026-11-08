@@ -7693,7 +7693,7 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T13:20:22.493",
+  "lastUpdateDateTime": "2026-11-08T11:47:20.103",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -7771,8 +7771,12 @@
     "comment": null
    }
   ],
-  "location": null,
-  "numberOfViewers": null
+  "location": {
+   "locationID": 1030,
+   "locationCity": "Hamburg",
+   "locationStadium": "Volksparkstadion"
+  },
+  "numberOfViewers": 57000
  },
  {
   "matchID": 83228,
@@ -7806,7 +7810,7 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-07T23:17:21.11",
+  "lastUpdateDateTime": "2026-11-08T11:47:57.05",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -7876,7 +7880,7 @@
    "locationCity": "Dortmund",
    "locationStadium": "Signal Iduna Park"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 81365
  },
  {
   "matchID": 83229,
@@ -7910,7 +7914,7 @@
    "tla": null,
    "wikidataId": "Q15755"
   },
-  "lastUpdateDateTime": "2026-11-07T17:55:34.02",
+  "lastUpdateDateTime": "2026-11-08T11:50:15.6",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8027,8 +8031,12 @@
     "comment": null
    }
   ],
-  "location": null,
-  "numberOfViewers": null
+  "location": {
+   "locationID": 478,
+   "locationCity": "Leipzig",
+   "locationStadium": "Red Bull Arena"
+  },
+  "numberOfViewers": 38292
  },
  {
   "matchID": 83233,
@@ -8062,7 +8070,7 @@
    "tla": null,
    "wikidataId": "Q15789"
   },
-  "lastUpdateDateTime": "2026-11-07T17:53:06.043",
+  "lastUpdateDateTime": "2026-11-08T11:50:41.493",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8127,8 +8135,12 @@
     "comment": null
    }
   ],
-  "location": null,
-  "numberOfViewers": null
+  "location": {
+   "locationID": 1533,
+   "locationCity": "Mainz",
+   "locationStadium": "Mewa Arena"
+  },
+  "numberOfViewers": 33305
  },
  {
   "matchID": 83236,
@@ -8162,7 +8174,7 @@
    "tla": null,
    "wikidataId": "Q38245"
   },
-  "lastUpdateDateTime": "2026-11-07T17:50:05.49",
+  "lastUpdateDateTime": "2026-11-08T11:51:02.157",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8240,8 +8252,12 @@
     "comment": null
    }
   ],
-  "location": null,
-  "numberOfViewers": null
+  "location": {
+   "locationID": 1482,
+   "locationCity": "Paderborn",
+   "locationStadium": "Home Deluxe Arena"
+  },
+  "numberOfViewers": 15000
  },
  {
   "matchID": 83230,
