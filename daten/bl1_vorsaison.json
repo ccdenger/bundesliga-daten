@@ -8122,12 +8122,12 @@
     "comment": null
    },
    {
-    "goalID": 133912,
-    "scoreTeam1": 3,
+    "goalID": 133913,
+    "scoreTeam1": 4,
     "scoreTeam2": 1,
     "matchMinute": 90,
-    "goalGetterID": 21344,
-    "goalGetterName": "S. El Mala",
+    "goalGetterID": 19594,
+    "goalGetterName": "J. Kaminski",
     "scoringTeamId": 65,
     "isPenalty": false,
     "isOwnGoal": false,
@@ -8135,12 +8135,12 @@
     "comment": null
    },
    {
-    "goalID": 133913,
-    "scoreTeam1": 4,
+    "goalID": 133912,
+    "scoreTeam1": 3,
     "scoreTeam2": 1,
     "matchMinute": 90,
-    "goalGetterID": 19594,
-    "goalGetterName": "J. Kaminski",
+    "goalGetterID": 21344,
+    "goalGetterName": "S. El Mala",
     "scoringTeamId": 65,
     "isPenalty": false,
     "isOwnGoal": false,
