@@ -8668,10 +8668,58 @@
    "tla": null,
    "wikidataId": "Q104770"
   },
-  "lastUpdateDateTime": "2026-11-20T11:50:26.41",
+  "lastUpdateDateTime": "2026-11-20T21:07:35.777",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 131533,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131534,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 153601,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 12,
+    "goalGetterID": 28260,
+    "goalGetterName": "M. Moore",
+    "scoringTeamId": 65,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153606,
+    "scoreTeam1": 1,
+    "scoreTeam2": 1,
+    "matchMinute": 37,
+    "goalGetterID": 826,
+    "goalGetterName": "N. Brown",
+    "scoringTeamId": 40,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 34,
    "locationCity": "München",
