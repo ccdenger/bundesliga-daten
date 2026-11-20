@@ -8668,14 +8668,14 @@
    "tla": null,
    "wikidataId": "Q104770"
   },
-  "lastUpdateDateTime": "2026-11-20T21:07:35.777",
+  "lastUpdateDateTime": "2026-11-20T21:26:30.473",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 131533,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam1": 1,
+    "pointsTeam2": 1,
     "resultOrderID": 1,
     "resultTypeID": 1,
     "resultTypeKind": "HalfTime",

@@ -1,8 +1,8 @@
 {
- "erstellt": "2026-11-20T20:10:20Z",
+ "erstellt": "2026-11-20T20:59:41Z",
  "saison": 2026,
- "spieltag": 10,
- "erster_anpfiff": "2026-11-20T20:30",
+ "spieltag": 11,
+ "erster_anpfiff": "2026-11-27T20:30",
  "modell": {
   "heimfaktor": 1.3858,
   "torbasis": 1.2396,
@@ -13,68 +13,368 @@
  },
  "partien": [
   {
-   "heim": "Bayern",
-   "auswaerts": "Köln",
-   "heim_voll": "FC Bayern München",
-   "auswaerts_voll": "1. FC Köln",
-   "heim_kurz_api": "Bayern",
-   "auswaerts_kurz_api": "Köln",
-   "anpfiff": "2026-11-20T20:30",
-   "lambda_heim": 4.225,
-   "lambda_auswaerts": 0.697,
-   "p_heimsieg": 0.9245,
-   "p_remis": 0.0523,
-   "p_auswaertssieg": 0.0232,
+   "heim": "Werder Bremen",
+   "auswaerts": "Gladbach",
+   "heim_voll": "SV Werder Bremen",
+   "auswaerts_voll": "Borussia Mönchengladbach",
+   "heim_kurz_api": "Bremen",
+   "auswaerts_kurz_api": "Gladbach",
+   "anpfiff": "2026-11-27T20:30",
+   "lambda_heim": 2.178,
+   "lambda_auswaerts": 1.104,
+   "p_heimsieg": 0.6178,
+   "p_remis": 0.1991,
+   "p_auswaertssieg": 0.1831,
    "modelltipp": {
-    "heim": 3,
-    "auswaerts": 0,
-    "text": "3:0",
-    "erwartete_punkte": 2.07
+    "heim": 2,
+    "auswaerts": 1,
+    "text": "2:1",
+    "erwartete_punkte": 1.562
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
-     "ergebnis": "4:0",
-     "p": 0.0967
+     "ergebnis": "2:1",
+     "p": 0.0983
     },
     {
-     "ergebnis": "3:0",
-     "p": 0.0916
-    },
-    {
-     "ergebnis": "5:0",
-     "p": 0.0817
-    },
-    {
-     "ergebnis": "4:1",
-     "p": 0.0674
+     "ergebnis": "1:1",
+     "p": 0.0903
     },
     {
      "ergebnis": "2:0",
-     "p": 0.065
+     "p": 0.089
+    },
+    {
+     "ergebnis": "1:0",
+     "p": 0.0818
+    },
+    {
+     "ergebnis": "3:1",
+     "p": 0.0714
     }
    ],
    "tabelle": {
     "heim": {
+     "platz": 6,
+     "punkte": 15,
+     "spiele": 9,
+     "tore": 17,
+     "gegentore": 15,
+     "diff": 2
+    },
+    "auswaerts": {
+     "platz": 18,
+     "punkte": 4,
+     "spiele": 9,
+     "tore": 12,
+     "gegentore": 25,
+     "diff": -13
+    }
+   },
+   "form": {
+    "heim": [
+     {
+      "zeichen": "U",
+      "ort": "A",
+      "gegner": "Dortmund",
+      "ergebnis": "2:2"
+     },
+     {
+      "zeichen": "U",
+      "ort": "H",
+      "gegner": "Paderborn",
+      "ergebnis": "2:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Mainz",
+      "ergebnis": "3:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Hoffenheim",
+      "ergebnis": "2:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Stuttgart",
+      "ergebnis": "0:1"
+     }
+    ],
+    "auswaerts": [
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Köln",
+      "ergebnis": "1:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Hoffenheim",
+      "ergebnis": "1:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Stuttgart",
+      "ergebnis": "3:2"
+     },
+     {
+      "zeichen": "U",
+      "ort": "H",
+      "gegner": "Paderborn",
+      "ergebnis": "0:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "HSV",
+      "ergebnis": "1:3"
+     }
+    ]
+   },
+   "heimbilanz": "3S 1U 0N, 10:5 Tore",
+   "auswaertsbilanz": "1S 0U 4N, 5:15 Tore",
+   "duelle_vorsaison": [
+    "2025-09-14 Gladbach 0:4 Werder Bremen",
+    "2026-01-31 Werder Bremen 1:1 Gladbach"
+   ]
+  },
+  {
+   "heim": "Mainz",
+   "auswaerts": "Union Berlin",
+   "heim_voll": "1. FSV Mainz 05",
+   "auswaerts_voll": "1. FC Union Berlin",
+   "heim_kurz_api": "Mainz",
+   "auswaerts_kurz_api": "Union Berlin",
+   "anpfiff": "2026-11-28T15:30",
+   "lambda_heim": 2.1,
+   "lambda_auswaerts": 1.03,
+   "p_heimsieg": 0.6193,
+   "p_remis": 0.2036,
+   "p_auswaertssieg": 0.1772,
+   "modelltipp": {
+    "heim": 2,
+    "auswaerts": 1,
+    "text": "2:1",
+    "erwartete_punkte": 1.572
+   },
+   "zuversicht": "hoch",
+   "tendenz_offen": false,
+   "top_ergebnisse": [
+    {
+     "ergebnis": "2:1",
+     "p": 0.0993
+    },
+    {
+     "ergebnis": "2:0",
+     "p": 0.0964
+    },
+    {
+     "ergebnis": "1:1",
+     "p": 0.0945
+    },
+    {
+     "ergebnis": "1:0",
+     "p": 0.0918
+    },
+    {
+     "ergebnis": "3:1",
+     "p": 0.0695
+    }
+   ],
+   "tabelle": {
+    "heim": {
+     "platz": 12,
+     "punkte": 10,
+     "spiele": 9,
+     "tore": 18,
+     "gegentore": 19,
+     "diff": -1
+    },
+    "auswaerts": {
+     "platz": 16,
+     "punkte": 7,
+     "spiele": 9,
+     "tore": 7,
+     "gegentore": 21,
+     "diff": -14
+    }
+   },
+   "form": {
+    "heim": [
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Leverkusen",
+      "ergebnis": "3:4"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Schalke",
+      "ergebnis": "1:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Werder Bremen",
+      "ergebnis": "2:3"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Elversberg",
+      "ergebnis": "1:4"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Bayern",
+      "ergebnis": "1:2"
+     }
+    ],
+    "auswaerts": [
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Elversberg",
+      "ergebnis": "1:0"
+     },
+     {
+      "zeichen": "U",
+      "ort": "H",
+      "gegner": "Dortmund",
+      "ergebnis": "0:0"
+     },
+     {
+      "zeichen": "U",
+      "ort": "A",
+      "gegner": "Augsburg",
+      "ergebnis": "1:1"
+     },
+     {
+      "zeichen": "U",
+      "ort": "H",
+      "gegner": "Köln",
+      "ergebnis": "1:1"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Freiburg",
+      "ergebnis": "0:2"
+     }
+    ]
+   },
+   "heimbilanz": "0S 1U 4N, 7:12 Tore",
+   "auswaertsbilanz": "0S 1U 3N, 1:14 Tore",
+   "duelle_vorsaison": [
+    "2026-01-10 Union Berlin 2:2 Mainz",
+    "2026-05-10 Mainz 1:3 Union Berlin"
+   ]
+  },
+  {
+   "heim": "HSV",
+   "auswaerts": "Bayern",
+   "heim_voll": "Hamburger SV",
+   "auswaerts_voll": "FC Bayern München",
+   "heim_kurz_api": "HSV",
+   "auswaerts_kurz_api": "Bayern",
+   "anpfiff": "2026-11-28T15:30",
+   "lambda_heim": 0.895,
+   "lambda_auswaerts": 3.131,
+   "p_heimsieg": 0.0738,
+   "p_remis": 0.1165,
+   "p_auswaertssieg": 0.8097,
+   "modelltipp": {
+    "heim": 0,
+    "auswaerts": 2,
+    "text": "0:2",
+    "erwartete_punkte": 1.903
+   },
+   "zuversicht": "hoch",
+   "tendenz_offen": false,
+   "top_ergebnisse": [
+    {
+     "ergebnis": "0:3",
+     "p": 0.0913
+    },
+    {
+     "ergebnis": "0:2",
+     "p": 0.0875
+    },
+    {
+     "ergebnis": "1:3",
+     "p": 0.0817
+    },
+    {
+     "ergebnis": "1:2",
+     "p": 0.0783
+    },
+    {
+     "ergebnis": "0:4",
+     "p": 0.0714
+    }
+   ],
+   "tabelle": {
+    "heim": {
+     "platz": 11,
+     "punkte": 12,
+     "spiele": 9,
+     "tore": 10,
+     "gegentore": 20,
+     "diff": -10
+    },
+    "auswaerts": {
      "platz": 1,
      "punkte": 22,
      "spiele": 10,
      "tore": 30,
      "gegentore": 10,
      "diff": 20
-    },
-    "auswaerts": {
-     "platz": 14,
-     "punkte": 10,
-     "spiele": 10,
-     "tore": 11,
-     "gegentore": 15,
-     "diff": -4
     }
    },
    "form": {
     "heim": [
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Hoffenheim",
+      "ergebnis": "3:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Stuttgart",
+      "ergebnis": "1:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Paderborn",
+      "ergebnis": "0:1"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Frankfurt",
+      "ergebnis": "1:3"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Gladbach",
+      "ergebnis": "3:1"
+     }
+    ],
+    "auswaerts": [
      {
       "zeichen": "U",
       "ort": "A",
@@ -105,8 +405,78 @@
       "gegner": "Mainz",
       "ergebnis": "2:1"
      }
-    ],
-    "auswaerts": [
+    ]
+   },
+   "heimbilanz": "3S 0U 1N, 6:7 Tore",
+   "auswaertsbilanz": "3S 2U 0N, 9:5 Tore",
+   "duelle_vorsaison": [
+    "2025-09-13 Bayern 5:0 HSV",
+    "2026-01-31 HSV 2:2 Bayern"
+   ]
+  },
+  {
+   "heim": "Köln",
+   "auswaerts": "Elversberg",
+   "heim_voll": "1. FC Köln",
+   "auswaerts_voll": "SV 07 Elversberg",
+   "heim_kurz_api": "Köln",
+   "auswaerts_kurz_api": "Elversberg",
+   "anpfiff": "2026-11-28T15:30",
+   "lambda_heim": 1.651,
+   "lambda_auswaerts": 1.803,
+   "p_heimsieg": 0.3566,
+   "p_remis": 0.2239,
+   "p_auswaertssieg": 0.4195,
+   "modelltipp": {
+    "heim": 1,
+    "auswaerts": 2,
+    "text": "1:2",
+    "erwartete_punkte": 1.12
+   },
+   "zuversicht": "niedrig",
+   "tendenz_offen": true,
+   "top_ergebnisse": [
+    {
+     "ergebnis": "1:1",
+     "p": 0.0941
+    },
+    {
+     "ergebnis": "1:2",
+     "p": 0.0849
+    },
+    {
+     "ergebnis": "2:1",
+     "p": 0.0777
+    },
+    {
+     "ergebnis": "2:2",
+     "p": 0.07
+    },
+    {
+     "ergebnis": "0:1",
+     "p": 0.057
+    }
+   ],
+   "tabelle": {
+    "heim": {
+     "platz": 14,
+     "punkte": 10,
+     "spiele": 10,
+     "tore": 11,
+     "gegentore": 15,
+     "diff": -4
+    },
+    "auswaerts": {
+     "platz": 7,
+     "punkte": 13,
+     "spiele": 9,
+     "tore": 17,
+     "gegentore": 18,
+     "diff": -1
+    }
+   },
+   "form": {
+    "heim": [
      {
       "zeichen": "S",
       "ort": "H",
@@ -137,110 +507,107 @@
       "gegner": "Leverkusen",
       "ergebnis": "1:2"
      }
+    ],
+    "auswaerts": [
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Union Berlin",
+      "ergebnis": "0:1"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Augsburg",
+      "ergebnis": "4:3"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Leipzig",
+      "ergebnis": "0:4"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Mainz",
+      "ergebnis": "4:1"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Dortmund",
+      "ergebnis": "1:2"
+     }
     ]
    },
-   "heimbilanz": "3S 1U 0N, 20:4 Tore",
-   "auswaertsbilanz": "0S 1U 3N, 3:8 Tore",
-   "duelle_vorsaison": [
-    "2026-01-14 Köln 1:3 Bayern",
-    "2026-05-16 Bayern 5:1 Köln"
-   ]
+   "heimbilanz": "2S 2U 1N, 7:6 Tore",
+   "auswaertsbilanz": "1S 1U 3N, 5:10 Tore",
+   "duelle_vorsaison": []
   },
   {
-   "heim": "Leverkusen",
-   "auswaerts": "Paderborn",
-   "heim_voll": "Bayer 04 Leverkusen",
-   "auswaerts_voll": "SC Paderborn 07",
-   "heim_kurz_api": "Leverkusen",
-   "auswaerts_kurz_api": "Paderborn",
-   "anpfiff": "2026-11-21T15:30",
-   "lambda_heim": 1.88,
-   "lambda_auswaerts": 0.75,
-   "p_heimsieg": 0.6418,
-   "p_remis": 0.2157,
-   "p_auswaertssieg": 0.1425,
+   "heim": "Paderborn",
+   "auswaerts": "Schalke",
+   "heim_voll": "SC Paderborn 07",
+   "auswaerts_voll": "FC Schalke 04",
+   "heim_kurz_api": "Paderborn",
+   "auswaerts_kurz_api": "S04",
+   "anpfiff": "2026-11-28T15:30",
+   "lambda_heim": 0.75,
+   "lambda_auswaerts": 0.46,
+   "p_heimsieg": 0.3861,
+   "p_remis": 0.4104,
+   "p_auswaertssieg": 0.2035,
    "modelltipp": {
-    "heim": 1,
+    "heim": 0,
     "auswaerts": 0,
-    "text": "1:0",
-    "erwartete_punkte": 1.675
+    "text": "0:0",
+    "erwartete_punkte": 1.529
    },
-   "zuversicht": "hoch",
-   "tendenz_offen": false,
+   "zuversicht": "niedrig",
+   "tendenz_offen": true,
    "top_ergebnisse": [
     {
-     "ergebnis": "1:0",
-     "p": 0.1355
+     "ergebnis": "0:0",
+     "p": 0.2983
     },
     {
-     "ergebnis": "2:0",
-     "p": 0.1274
+     "ergebnis": "1:0",
+     "p": 0.2236
+    },
+    {
+     "ergebnis": "0:1",
+     "p": 0.1372
     },
     {
      "ergebnis": "1:1",
-     "p": 0.1016
+     "p": 0.1029
     },
     {
-     "ergebnis": "2:1",
-     "p": 0.0955
-    },
-    {
-     "ergebnis": "3:0",
-     "p": 0.0798
+     "ergebnis": "2:0",
+     "p": 0.0838
     }
    ],
    "tabelle": {
     "heim": {
-     "platz": 5,
-     "punkte": 16,
-     "spiele": 9,
-     "tore": 20,
-     "gegentore": 17,
-     "diff": 3
-    },
-    "auswaerts": {
      "platz": 13,
      "punkte": 10,
      "spiele": 9,
      "tore": 8,
      "gegentore": 11,
      "diff": -3
+    },
+    "auswaerts": {
+     "platz": 17,
+     "punkte": 6,
+     "spiele": 9,
+     "tore": 5,
+     "gegentore": 11,
+     "diff": -6
     }
    },
    "form": {
     "heim": [
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Mainz",
-      "ergebnis": "4:3"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Freiburg",
-      "ergebnis": "2:1"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Hoffenheim",
-      "ergebnis": "0:3"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Stuttgart",
-      "ergebnis": "2:4"
-     },
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Köln",
-      "ergebnis": "2:1"
-     }
-    ],
-    "auswaerts": [
      {
       "zeichen": "N",
       "ort": "H",
@@ -271,75 +638,139 @@
       "gegner": "Frankfurt",
       "ergebnis": "2:2"
      }
+    ],
+    "auswaerts": [
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Freiburg",
+      "ergebnis": "1:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Mainz",
+      "ergebnis": "0:1"
+     },
+     {
+      "zeichen": "U",
+      "ort": "A",
+      "gegner": "Köln",
+      "ergebnis": "0:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Leipzig",
+      "ergebnis": "0:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Hoffenheim",
+      "ergebnis": "1:2"
+     }
     ]
    },
-   "heimbilanz": "3S 0U 1N, 10:5 Tore",
-   "auswaertsbilanz": "0S 3U 1N, 2:5 Tore",
+   "heimbilanz": "2S 1U 2N, 6:6 Tore",
+   "auswaertsbilanz": "1S 1U 3N, 5:8 Tore",
    "duelle_vorsaison": []
   },
   {
-   "heim": "Frankfurt",
-   "auswaerts": "Hoffenheim",
-   "heim_voll": "Eintracht Frankfurt",
-   "auswaerts_voll": "TSG Hoffenheim",
-   "heim_kurz_api": "Frankfurt",
-   "auswaerts_kurz_api": "Hoffenheim",
-   "anpfiff": "2026-11-21T15:30",
-   "lambda_heim": 2.264,
-   "lambda_auswaerts": 1.976,
-   "p_heimsieg": 0.4542,
-   "p_remis": 0.199,
-   "p_auswaertssieg": 0.3468,
+   "heim": "Stuttgart",
+   "auswaerts": "Frankfurt",
+   "heim_voll": "VfB Stuttgart",
+   "auswaerts_voll": "Eintracht Frankfurt",
+   "heim_kurz_api": "Stuttgart",
+   "auswaerts_kurz_api": "Frankfurt",
+   "anpfiff": "2026-11-28T18:30",
+   "lambda_heim": 2.776,
+   "lambda_auswaerts": 1.341,
+   "p_heimsieg": 0.6741,
+   "p_remis": 0.1634,
+   "p_auswaertssieg": 0.1625,
    "modelltipp": {
     "heim": 2,
     "auswaerts": 1,
     "text": "2:1",
-    "erwartete_punkte": 1.166
+    "erwartete_punkte": 1.631
    },
-   "zuversicht": "mittel",
+   "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
      "ergebnis": "2:1",
-     "p": 0.0729
-    },
-    {
-     "ergebnis": "2:2",
-     "p": 0.0721
-    },
-    {
-     "ergebnis": "1:1",
-     "p": 0.0644
-    },
-    {
-     "ergebnis": "1:2",
-     "p": 0.0637
+     "p": 0.0842
     },
     {
      "ergebnis": "3:1",
-     "p": 0.055
+     "p": 0.0779
+    },
+    {
+     "ergebnis": "2:0",
+     "p": 0.0628
+    },
+    {
+     "ergebnis": "1:1",
+     "p": 0.0607
+    },
+    {
+     "ergebnis": "3:0",
+     "p": 0.0581
     }
    ],
    "tabelle": {
     "heim": {
+     "platz": 8,
+     "punkte": 12,
+     "spiele": 9,
+     "tore": 15,
+     "gegentore": 15,
+     "diff": 0
+    },
+    "auswaerts": {
      "platz": 10,
      "punkte": 12,
      "spiele": 9,
      "tore": 15,
      "gegentore": 20,
      "diff": -5
-    },
-    "auswaerts": {
-     "platz": 9,
-     "punkte": 12,
-     "spiele": 9,
-     "tore": 16,
-     "gegentore": 17,
-     "diff": -1
     }
    },
    "form": {
     "heim": [
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Paderborn",
+      "ergebnis": "2:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "HSV",
+      "ergebnis": "0:1"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Gladbach",
+      "ergebnis": "2:3"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Leverkusen",
+      "ergebnis": "4:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Werder Bremen",
+      "ergebnis": "1:0"
+     }
+    ],
+    "auswaerts": [
      {
       "zeichen": "N",
       "ort": "A",
@@ -370,98 +801,66 @@
       "gegner": "Paderborn",
       "ergebnis": "2:2"
      }
-    ],
-    "auswaerts": [
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "HSV",
-      "ergebnis": "2:3"
-     },
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Gladbach",
-      "ergebnis": "2:1"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Leverkusen",
-      "ergebnis": "3:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Werder Bremen",
-      "ergebnis": "0:2"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Schalke",
-      "ergebnis": "2:1"
-     }
     ]
    },
-   "heimbilanz": "2S 1U 1N, 7:7 Tore",
-   "auswaertsbilanz": "1S 0U 3N, 5:9 Tore",
+   "heimbilanz": "2S 0U 2N, 7:5 Tore",
+   "auswaertsbilanz": "1S 2U 2N, 8:13 Tore",
    "duelle_vorsaison": [
-    "2025-08-30 Hoffenheim 1:3 Frankfurt",
-    "2026-01-24 Frankfurt 1:3 Hoffenheim"
+    "2026-01-13 Stuttgart 3:2 Frankfurt",
+    "2026-05-16 Frankfurt 2:2 Stuttgart"
    ]
   },
   {
-   "heim": "Union Berlin",
+   "heim": "Freiburg",
    "auswaerts": "Leipzig",
-   "heim_voll": "1. FC Union Berlin",
+   "heim_voll": "SC Freiburg",
    "auswaerts_voll": "RB Leipzig",
-   "heim_kurz_api": "Union Berlin",
+   "heim_kurz_api": "Freiburg",
    "auswaerts_kurz_api": "Leipzig",
-   "anpfiff": "2026-11-21T15:30",
-   "lambda_heim": 1.09,
-   "lambda_auswaerts": 2.14,
-   "p_heimsieg": 0.1847,
-   "p_remis": 0.2019,
-   "p_auswaertssieg": 0.6134,
+   "anpfiff": "2026-11-29T15:30",
+   "lambda_heim": 1.779,
+   "lambda_auswaerts": 1.678,
+   "p_heimsieg": 0.4088,
+   "p_remis": 0.2241,
+   "p_auswaertssieg": 0.3671,
    "modelltipp": {
-    "heim": 1,
-    "auswaerts": 2,
-    "text": "1:2",
-    "erwartete_punkte": 1.555
+    "heim": 2,
+    "auswaerts": 1,
+    "text": "2:1",
+    "erwartete_punkte": 1.095
    },
-   "zuversicht": "hoch",
-   "tendenz_offen": false,
+   "zuversicht": "niedrig",
+   "tendenz_offen": true,
    "top_ergebnisse": [
     {
-     "ergebnis": "1:2",
-     "p": 0.0987
-    },
-    {
      "ergebnis": "1:1",
-     "p": 0.0922
+     "p": 0.0941
     },
     {
-     "ergebnis": "0:2",
-     "p": 0.0906
+     "ergebnis": "2:1",
+     "p": 0.0837
     },
     {
-     "ergebnis": "0:1",
-     "p": 0.0846
+     "ergebnis": "1:2",
+     "p": 0.0789
     },
     {
-     "ergebnis": "1:3",
-     "p": 0.0704
+     "ergebnis": "2:2",
+     "p": 0.0702
+    },
+    {
+     "ergebnis": "1:0",
+     "p": 0.0561
     }
    ],
    "tabelle": {
     "heim": {
-     "platz": 16,
-     "punkte": 7,
+     "platz": 3,
+     "punkte": 19,
      "spiele": 9,
-     "tore": 7,
-     "gegentore": 21,
-     "diff": -14
+     "tore": 20,
+     "gegentore": 10,
+     "diff": 10
     },
     "auswaerts": {
      "platz": 4,
@@ -477,32 +876,32 @@
      {
       "zeichen": "S",
       "ort": "H",
-      "gegner": "Elversberg",
-      "ergebnis": "1:0"
-     },
-     {
-      "zeichen": "U",
-      "ort": "H",
-      "gegner": "Dortmund",
-      "ergebnis": "0:0"
-     },
-     {
-      "zeichen": "U",
-      "ort": "A",
-      "gegner": "Augsburg",
-      "ergebnis": "1:1"
-     },
-     {
-      "zeichen": "U",
-      "ort": "H",
-      "gegner": "Köln",
-      "ergebnis": "1:1"
+      "gegner": "Schalke",
+      "ergebnis": "2:1"
      },
      {
       "zeichen": "N",
       "ort": "A",
-      "gegner": "Freiburg",
-      "ergebnis": "0:2"
+      "gegner": "Leverkusen",
+      "ergebnis": "1:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Bayern",
+      "ergebnis": "1:3"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Augsburg",
+      "ergebnis": "2:1"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Union Berlin",
+      "ergebnis": "2:0"
      }
     ],
     "auswaerts": [
@@ -538,472 +937,108 @@
      }
     ]
    },
-   "heimbilanz": "1S 3U 1N, 6:7 Tore",
+   "heimbilanz": "4S 0U 1N, 14:5 Tore",
    "auswaertsbilanz": "1S 0U 3N, 4:11 Tore",
    "duelle_vorsaison": [
-    "2025-12-12 Union Berlin 3:1 Leipzig",
-    "2026-04-24 Leipzig 3:1 Union Berlin"
+    "2026-01-14 Leipzig 2:0 Freiburg",
+    "2026-05-16 Freiburg 4:1 Leipzig"
    ]
   },
   {
-   "heim": "Gladbach",
-   "auswaerts": "Dortmund",
-   "heim_voll": "Borussia Mönchengladbach",
-   "auswaerts_voll": "Borussia Dortmund",
-   "heim_kurz_api": "Gladbach",
-   "auswaerts_kurz_api": "Dortmund",
-   "anpfiff": "2026-11-21T15:30",
-   "lambda_heim": 0.838,
-   "lambda_auswaerts": 1.915,
-   "p_heimsieg": 0.1579,
-   "p_remis": 0.2152,
-   "p_auswaertssieg": 0.6269,
+   "heim": "Hoffenheim",
+   "auswaerts": "Augsburg",
+   "heim_voll": "TSG Hoffenheim",
+   "auswaerts_voll": "FC Augsburg",
+   "heim_kurz_api": "Hoffenheim",
+   "auswaerts_kurz_api": "Augsburg",
+   "anpfiff": "2026-11-29T17:30",
+   "lambda_heim": 2.49,
+   "lambda_auswaerts": 1.641,
+   "p_heimsieg": 0.5631,
+   "p_remis": 0.1886,
+   "p_auswaertssieg": 0.2482,
    "modelltipp": {
-    "heim": 0,
+    "heim": 2,
     "auswaerts": 1,
-    "text": "0:1",
-    "erwartete_punkte": 1.626
+    "text": "2:1",
+    "erwartete_punkte": 1.407
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
-     "ergebnis": "0:1",
-     "p": 0.122
-    },
-    {
-     "ergebnis": "0:2",
-     "p": 0.1168
-    },
-    {
-     "ergebnis": "1:1",
-     "p": 0.1023
-    },
-    {
-     "ergebnis": "1:2",
-     "p": 0.0979
-    },
-    {
-     "ergebnis": "0:3",
-     "p": 0.0746
-    }
-   ],
-   "tabelle": {
-    "heim": {
-     "platz": 18,
-     "punkte": 4,
-     "spiele": 9,
-     "tore": 12,
-     "gegentore": 25,
-     "diff": -13
-    },
-    "auswaerts": {
-     "platz": 2,
-     "punkte": 21,
-     "spiele": 9,
-     "tore": 16,
-     "gegentore": 7,
-     "diff": 9
-    }
-   },
-   "form": {
-    "heim": [
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Köln",
-      "ergebnis": "1:2"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Hoffenheim",
-      "ergebnis": "1:2"
-     },
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Stuttgart",
-      "ergebnis": "3:2"
-     },
-     {
-      "zeichen": "U",
-      "ort": "H",
-      "gegner": "Paderborn",
-      "ergebnis": "0:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "HSV",
-      "ergebnis": "1:3"
-     }
-    ],
-    "auswaerts": [
-     {
-      "zeichen": "U",
-      "ort": "H",
-      "gegner": "Werder Bremen",
-      "ergebnis": "2:2"
-     },
-     {
-      "zeichen": "U",
-      "ort": "A",
-      "gegner": "Union Berlin",
-      "ergebnis": "0:0"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Frankfurt",
-      "ergebnis": "1:0"
-     },
-     {
-      "zeichen": "U",
-      "ort": "A",
-      "gegner": "Bayern",
-      "ergebnis": "2:2"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Elversberg",
-      "ergebnis": "2:1"
-     }
-    ]
-   },
-   "heimbilanz": "0S 1U 3N, 7:10 Tore",
-   "auswaertsbilanz": "2S 2U 0N, 6:4 Tore",
-   "duelle_vorsaison": [
-    "2025-12-19 Dortmund 2:0 Gladbach",
-    "2026-05-03 Gladbach 1:0 Dortmund"
-   ]
-  },
-  {
-   "heim": "Elversberg",
-   "auswaerts": "Freiburg",
-   "heim_voll": "SV 07 Elversberg",
-   "auswaerts_voll": "SC Freiburg",
-   "heim_kurz_api": "Elversberg",
-   "auswaerts_kurz_api": "Freiburg",
-   "anpfiff": "2026-11-21T15:30",
-   "lambda_heim": 2.033,
-   "lambda_auswaerts": 1.698,
-   "p_heimsieg": 0.4604,
-   "p_remis": 0.2124,
-   "p_auswaertssieg": 0.3273,
-   "modelltipp": {
-    "heim": 2,
-    "auswaerts": 1,
-    "text": "2:1",
-    "erwartete_punkte": 1.202
-   },
-   "zuversicht": "mittel",
-   "tendenz_offen": false,
-   "top_ergebnisse": [
-    {
      "ergebnis": "2:1",
-     "p": 0.0841
-    },
-    {
-     "ergebnis": "1:1",
-     "p": 0.0827
-    },
-    {
-     "ergebnis": "2:2",
-     "p": 0.0714
-    },
-    {
-     "ergebnis": "1:2",
-     "p": 0.0702
+     "p": 0.0817
     },
     {
      "ergebnis": "3:1",
-     "p": 0.057
+     "p": 0.0678
+    },
+    {
+     "ergebnis": "2:2",
+     "p": 0.0671
+    },
+    {
+     "ergebnis": "1:1",
+     "p": 0.0656
+    },
+    {
+     "ergebnis": "3:2",
+     "p": 0.0557
     }
    ],
    "tabelle": {
     "heim": {
-     "platz": 7,
-     "punkte": 13,
+     "platz": 9,
+     "punkte": 12,
      "spiele": 9,
-     "tore": 17,
-     "gegentore": 18,
+     "tore": 16,
+     "gegentore": 17,
      "diff": -1
     },
     "auswaerts": {
-     "platz": 3,
-     "punkte": 19,
-     "spiele": 9,
-     "tore": 20,
-     "gegentore": 10,
-     "diff": 10
-    }
-   },
-   "form": {
-    "heim": [
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Union Berlin",
-      "ergebnis": "0:1"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Augsburg",
-      "ergebnis": "4:3"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Leipzig",
-      "ergebnis": "0:4"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Mainz",
-      "ergebnis": "4:1"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Dortmund",
-      "ergebnis": "1:2"
-     }
-    ],
-    "auswaerts": [
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Schalke",
-      "ergebnis": "2:1"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Leverkusen",
-      "ergebnis": "1:2"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Bayern",
-      "ergebnis": "1:3"
-     },
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Augsburg",
-      "ergebnis": "2:1"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Union Berlin",
-      "ergebnis": "2:0"
-     }
-    ]
-   },
-   "heimbilanz": "3S 0U 1N, 12:8 Tore",
-   "auswaertsbilanz": "2S 1U 1N, 6:5 Tore",
-   "duelle_vorsaison": []
-  },
-  {
-   "heim": "Schalke",
-   "auswaerts": "Stuttgart",
-   "heim_voll": "FC Schalke 04",
-   "auswaerts_voll": "VfB Stuttgart",
-   "heim_kurz_api": "S04",
-   "auswaerts_kurz_api": "Stuttgart",
-   "anpfiff": "2026-11-21T18:30",
-   "lambda_heim": 0.734,
-   "lambda_auswaerts": 1.099,
-   "p_heimsieg": 0.2429,
-   "p_remis": 0.3173,
-   "p_auswaertssieg": 0.4398,
-   "modelltipp": {
-    "heim": 0,
-    "auswaerts": 1,
-    "text": "0:1",
-    "erwartete_punkte": 1.312
-   },
-   "zuversicht": "mittel",
-   "tendenz_offen": false,
-   "top_ergebnisse": [
-    {
-     "ergebnis": "0:1",
-     "p": 0.1757
-    },
-    {
-     "ergebnis": "0:0",
-     "p": 0.1598
-    },
-    {
-     "ergebnis": "1:1",
-     "p": 0.129
-    },
-    {
-     "ergebnis": "1:0",
-     "p": 0.1173
-    },
-    {
-     "ergebnis": "0:2",
-     "p": 0.0966
-    }
-   ],
-   "tabelle": {
-    "heim": {
-     "platz": 17,
-     "punkte": 6,
-     "spiele": 9,
-     "tore": 5,
-     "gegentore": 11,
-     "diff": -6
-    },
-    "auswaerts": {
-     "platz": 8,
-     "punkte": 12,
-     "spiele": 9,
-     "tore": 15,
-     "gegentore": 15,
-     "diff": 0
-    }
-   },
-   "form": {
-    "heim": [
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Freiburg",
-      "ergebnis": "1:2"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Mainz",
-      "ergebnis": "0:1"
-     },
-     {
-      "zeichen": "U",
-      "ort": "A",
-      "gegner": "Köln",
-      "ergebnis": "0:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Leipzig",
-      "ergebnis": "0:2"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Hoffenheim",
-      "ergebnis": "1:2"
-     }
-    ],
-    "auswaerts": [
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Paderborn",
-      "ergebnis": "2:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "HSV",
-      "ergebnis": "0:1"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Gladbach",
-      "ergebnis": "2:3"
-     },
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Leverkusen",
-      "ergebnis": "4:2"
-     },
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Werder Bremen",
-      "ergebnis": "1:0"
-     }
-    ]
-   },
-   "heimbilanz": "0S 2U 2N, 0:3 Tore",
-   "auswaertsbilanz": "2S 0U 3N, 8:10 Tore",
-   "duelle_vorsaison": []
-  },
-  {
-   "heim": "Augsburg",
-   "auswaerts": "Mainz",
-   "heim_voll": "FC Augsburg",
-   "auswaerts_voll": "1. FSV Mainz 05",
-   "heim_kurz_api": "Augsburg",
-   "auswaerts_kurz_api": "Mainz",
-   "anpfiff": "2026-11-22T15:30",
-   "lambda_heim": 2.28,
-   "lambda_auswaerts": 1.548,
-   "p_heimsieg": 0.5416,
-   "p_remis": 0.1997,
-   "p_auswaertssieg": 0.2587,
-   "modelltipp": {
-    "heim": 2,
-    "auswaerts": 1,
-    "text": "2:1",
-    "erwartete_punkte": 1.377
-   },
-   "zuversicht": "mittel",
-   "tendenz_offen": false,
-   "top_ergebnisse": [
-    {
-     "ergebnis": "2:1",
-     "p": 0.0875
-    },
-    {
-     "ergebnis": "1:1",
-     "p": 0.0768
-    },
-    {
-     "ergebnis": "2:2",
-     "p": 0.0677
-    },
-    {
-     "ergebnis": "3:1",
-     "p": 0.0665
-    },
-    {
-     "ergebnis": "1:2",
-     "p": 0.0594
-    }
-   ],
-   "tabelle": {
-    "heim": {
      "platz": 15,
      "punkte": 9,
      "spiele": 9,
      "tore": 20,
      "gegentore": 20,
      "diff": 0
-    },
-    "auswaerts": {
-     "platz": 12,
-     "punkte": 10,
-     "spiele": 9,
-     "tore": 18,
-     "gegentore": 19,
-     "diff": -1
     }
    },
    "form": {
     "heim": [
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "HSV",
+      "ergebnis": "2:3"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Gladbach",
+      "ergebnis": "2:1"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Leverkusen",
+      "ergebnis": "3:0"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Werder Bremen",
+      "ergebnis": "0:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Schalke",
+      "ergebnis": "2:1"
+     }
+    ],
+    "auswaerts": [
      {
       "zeichen": "U",
       "ort": "H",
@@ -1034,179 +1069,147 @@
       "gegner": "Leipzig",
       "ergebnis": "2:5"
      }
-    ],
-    "auswaerts": [
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Leverkusen",
-      "ergebnis": "3:4"
-     },
-     {
-      "zeichen": "S",
-      "ort": "A",
-      "gegner": "Schalke",
-      "ergebnis": "1:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Werder Bremen",
-      "ergebnis": "2:3"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Elversberg",
-      "ergebnis": "1:4"
-     },
-     {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Bayern",
-      "ergebnis": "1:2"
-     }
     ]
    },
-   "heimbilanz": "1S 3U 1N, 9:7 Tore",
-   "auswaertsbilanz": "3S 0U 1N, 11:7 Tore",
+   "heimbilanz": "3S 0U 2N, 11:8 Tore",
+   "auswaertsbilanz": "1S 0U 3N, 11:13 Tore",
    "duelle_vorsaison": [
-    "2025-09-20 Augsburg 1:4 Mainz",
-    "2026-02-07 Mainz 2:0 Augsburg"
+    "2025-11-29 Hoffenheim 3:0 Augsburg",
+    "2026-04-10 Augsburg 2:2 Hoffenheim"
    ]
   },
   {
-   "heim": "Werder Bremen",
-   "auswaerts": "HSV",
-   "heim_voll": "SV Werder Bremen",
-   "auswaerts_voll": "Hamburger SV",
-   "heim_kurz_api": "Bremen",
-   "auswaerts_kurz_api": "HSV",
-   "anpfiff": "2026-11-22T17:30",
-   "lambda_heim": 1.934,
-   "lambda_auswaerts": 0.991,
-   "p_heimsieg": 0.5936,
-   "p_remis": 0.2177,
-   "p_auswaertssieg": 0.1887,
+   "heim": "Dortmund",
+   "auswaerts": "Leverkusen",
+   "heim_voll": "Borussia Dortmund",
+   "auswaerts_voll": "Bayer 04 Leverkusen",
+   "heim_kurz_api": "Dortmund",
+   "auswaerts_kurz_api": "Leverkusen",
+   "anpfiff": "2026-11-29T19:30",
+   "lambda_heim": 2.034,
+   "lambda_auswaerts": 0.948,
+   "p_heimsieg": 0.6252,
+   "p_remis": 0.207,
+   "p_auswaertssieg": 0.1678,
    "modelltipp": {
     "heim": 1,
     "auswaerts": 0,
     "text": "1:0",
-    "erwartete_punkte": 1.531
+    "erwartete_punkte": 1.593
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
-     "ergebnis": "1:0",
-     "p": 0.1038
-    },
-    {
-     "ergebnis": "1:1",
-     "p": 0.1029
-    },
-    {
      "ergebnis": "2:0",
-     "p": 0.1003
+     "p": 0.1049
+    },
+    {
+     "ergebnis": "1:0",
+     "p": 0.1031
     },
     {
      "ergebnis": "2:1",
-     "p": 0.0995
+     "p": 0.0994
+    },
+    {
+     "ergebnis": "1:1",
+     "p": 0.0977
     },
     {
      "ergebnis": "3:0",
-     "p": 0.0647
+     "p": 0.0711
     }
    ],
    "tabelle": {
     "heim": {
-     "platz": 6,
-     "punkte": 15,
+     "platz": 2,
+     "punkte": 21,
      "spiele": 9,
-     "tore": 17,
-     "gegentore": 15,
-     "diff": 2
+     "tore": 16,
+     "gegentore": 7,
+     "diff": 9
     },
     "auswaerts": {
-     "platz": 11,
-     "punkte": 12,
+     "platz": 5,
+     "punkte": 16,
      "spiele": 9,
-     "tore": 10,
-     "gegentore": 20,
-     "diff": -10
+     "tore": 20,
+     "gegentore": 17,
+     "diff": 3
     }
    },
    "form": {
     "heim": [
      {
       "zeichen": "U",
-      "ort": "A",
-      "gegner": "Dortmund",
+      "ort": "H",
+      "gegner": "Werder Bremen",
       "ergebnis": "2:2"
      },
      {
       "zeichen": "U",
+      "ort": "A",
+      "gegner": "Union Berlin",
+      "ergebnis": "0:0"
+     },
+     {
+      "zeichen": "S",
       "ort": "H",
-      "gegner": "Paderborn",
+      "gegner": "Frankfurt",
+      "ergebnis": "1:0"
+     },
+     {
+      "zeichen": "U",
+      "ort": "A",
+      "gegner": "Bayern",
       "ergebnis": "2:2"
      },
      {
       "zeichen": "S",
-      "ort": "A",
-      "gegner": "Mainz",
-      "ergebnis": "3:2"
-     },
-     {
-      "zeichen": "S",
       "ort": "H",
-      "gegner": "Hoffenheim",
-      "ergebnis": "2:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Stuttgart",
-      "ergebnis": "0:1"
+      "gegner": "Elversberg",
+      "ergebnis": "2:1"
      }
     ],
     "auswaerts": [
      {
       "zeichen": "S",
       "ort": "A",
-      "gegner": "Hoffenheim",
-      "ergebnis": "3:2"
+      "gegner": "Mainz",
+      "ergebnis": "4:3"
      },
      {
       "zeichen": "S",
+      "ort": "H",
+      "gegner": "Freiburg",
+      "ergebnis": "2:1"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Hoffenheim",
+      "ergebnis": "0:3"
+     },
+     {
+      "zeichen": "N",
       "ort": "H",
       "gegner": "Stuttgart",
-      "ergebnis": "1:0"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Paderborn",
-      "ergebnis": "0:1"
-     },
-     {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Frankfurt",
-      "ergebnis": "1:3"
+      "ergebnis": "2:4"
      },
      {
       "zeichen": "S",
-      "ort": "H",
-      "gegner": "Gladbach",
-      "ergebnis": "3:1"
+      "ort": "A",
+      "gegner": "Köln",
+      "ergebnis": "2:1"
      }
     ]
    },
-   "heimbilanz": "3S 1U 0N, 10:5 Tore",
-   "auswaertsbilanz": "1S 0U 4N, 4:13 Tore",
+   "heimbilanz": "4S 1U 0N, 10:3 Tore",
+   "auswaertsbilanz": "2S 1U 2N, 10:12 Tore",
    "duelle_vorsaison": [
-    "2025-12-07 HSV 3:2 Werder Bremen",
-    "2026-04-18 Werder Bremen 3:1 HSV"
+    "2025-11-29 Leverkusen 1:2 Dortmund",
+    "2026-04-11 Dortmund 0:1 Leverkusen"
    ]
   }
  ]
