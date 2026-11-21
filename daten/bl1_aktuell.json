@@ -9253,8 +9253,8 @@
    "tla": null,
    "wikidataId": "Q4512"
   },
-  "lastUpdateDateTime": "2026-11-21T19:16:19.357",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-21T20:22:10.937",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131576,
@@ -9283,7 +9283,7 @@
    "locationCity": "Gelsenkirchen",
    "locationStadium": "Veltins Arena"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 62094
  },
  {
   "matchID": 83240,
