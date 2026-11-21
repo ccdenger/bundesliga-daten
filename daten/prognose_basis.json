@@ -1,12 +1,12 @@
 {
- "erstellt": "2026-11-21T15:55:23Z",
+ "erstellt": "2026-11-21T16:55:59Z",
  "saison": 2026,
  "spieltag": 11,
  "erster_anpfiff": "2026-11-27T20:30",
  "modell": {
-  "heimfaktor": 1.3713,
-  "torbasis": 1.246,
-  "trainingsspiele": 388,
+  "heimfaktor": 1.3708,
+  "torbasis": 1.2358,
+  "trainingsspiele": 393,
   "vorsaison_gewicht": 0.3,
   "schrumpfung": 2.0,
   "punkteschema": "4 exakt / 3 Tordifferenz / 2 Tendenz"
@@ -20,39 +20,39 @@
    "heim_kurz_api": "Bremen",
    "auswaerts_kurz_api": "Gladbach",
    "anpfiff": "2026-11-27T20:30",
-   "lambda_heim": 2.177,
-   "lambda_auswaerts": 1.115,
-   "p_heimsieg": 0.6151,
-   "p_remis": 0.1995,
-   "p_auswaertssieg": 0.1854,
+   "lambda_heim": 2.141,
+   "lambda_auswaerts": 1.085,
+   "p_heimsieg": 0.6146,
+   "p_remis": 0.2017,
+   "p_auswaertssieg": 0.1837,
    "modelltipp": {
     "heim": 2,
     "auswaerts": 1,
     "text": "2:1",
-    "erwartete_punkte": 1.556
+    "erwartete_punkte": 1.558
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
      "ergebnis": "2:1",
-     "p": 0.0982
+     "p": 0.0988
     },
     {
      "ergebnis": "1:1",
-     "p": 0.0902
+     "p": 0.0923
     },
     {
      "ergebnis": "2:0",
-     "p": 0.0881
+     "p": 0.091
     },
     {
      "ergebnis": "1:0",
-     "p": 0.0809
+     "p": 0.085
     },
     {
      "ergebnis": "3:1",
-     "p": 0.0713
+     "p": 0.0705
     }
    ],
    "tabelle": {
@@ -66,11 +66,11 @@
     },
     "auswaerts": {
      "platz": 18,
-     "punkte": 5,
+     "punkte": 4,
      "spiele": 10,
      "tore": 12,
-     "gegentore": 25,
-     "diff": -13
+     "gegentore": 26,
+     "diff": -14
     }
    },
    "form": {
@@ -109,12 +109,6 @@
     "auswaerts": [
      {
       "zeichen": "N",
-      "ort": "A",
-      "gegner": "Köln",
-      "ergebnis": "1:2"
-     },
-     {
-      "zeichen": "N",
       "ort": "H",
       "gegner": "Hoffenheim",
       "ergebnis": "1:2"
@@ -136,6 +130,12 @@
       "ort": "A",
       "gegner": "HSV",
       "ergebnis": "1:3"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Dortmund",
+      "ergebnis": "0:1"
      }
     ]
    },
@@ -154,39 +154,39 @@
    "heim_kurz_api": "Mainz",
    "auswaerts_kurz_api": "Union Berlin",
    "anpfiff": "2026-11-28T15:30",
-   "lambda_heim": 2.103,
-   "lambda_auswaerts": 1.045,
-   "p_heimsieg": 0.6163,
-   "p_remis": 0.2038,
-   "p_auswaertssieg": 0.1799,
+   "lambda_heim": 2.249,
+   "lambda_auswaerts": 1.063,
+   "p_heimsieg": 0.641,
+   "p_remis": 0.1918,
+   "p_auswaertssieg": 0.1672,
    "modelltipp": {
     "heim": 2,
     "auswaerts": 1,
     "text": "2:1",
-    "erwartete_punkte": 1.565
+    "erwartete_punkte": 1.607
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
      "ergebnis": "2:1",
-     "p": 0.0992
+     "p": 0.098
     },
     {
      "ergebnis": "2:0",
-     "p": 0.0949
+     "p": 0.0921
     },
     {
      "ergebnis": "1:1",
-     "p": 0.0944
+     "p": 0.0871
     },
     {
      "ergebnis": "1:0",
-     "p": 0.0903
+     "p": 0.0819
     },
     {
      "ergebnis": "3:1",
-     "p": 0.0696
+     "p": 0.0735
     }
    ],
    "tabelle": {
@@ -203,8 +203,8 @@
      "punkte": 7,
      "spiele": 10,
      "tore": 8,
-     "gegentore": 23,
-     "diff": -15
+     "gegentore": 26,
+     "diff": -18
     }
    },
    "form": {
@@ -242,12 +242,6 @@
     ],
     "auswaerts": [
      {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Elversberg",
-      "ergebnis": "1:0"
-     },
-     {
       "zeichen": "U",
       "ort": "H",
       "gegner": "Dortmund",
@@ -270,6 +264,12 @@
       "ort": "A",
       "gegner": "Freiburg",
       "ergebnis": "0:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Leipzig",
+      "ergebnis": "1:5"
      }
     ]
    },
@@ -288,11 +288,11 @@
    "heim_kurz_api": "HSV",
    "auswaerts_kurz_api": "Bayern",
    "anpfiff": "2026-11-28T15:30",
-   "lambda_heim": 0.906,
-   "lambda_auswaerts": 3.022,
-   "p_heimsieg": 0.0809,
-   "p_remis": 0.1243,
-   "p_auswaertssieg": 0.7948,
+   "lambda_heim": 0.912,
+   "lambda_auswaerts": 3.041,
+   "p_heimsieg": 0.0805,
+   "p_remis": 0.1234,
+   "p_auswaertssieg": 0.796,
    "modelltipp": {
     "heim": 0,
     "auswaerts": 2,
@@ -304,19 +304,19 @@
    "top_ergebnisse": [
     {
      "ergebnis": "0:3",
-     "p": 0.0905
+     "p": 0.09
     },
     {
      "ergebnis": "0:2",
-     "p": 0.0899
+     "p": 0.0888
     },
     {
      "ergebnis": "1:3",
-     "p": 0.082
+     "p": 0.0821
     },
     {
      "ergebnis": "1:2",
-     "p": 0.0814
+     "p": 0.0809
     },
     {
      "ergebnis": "0:4",
@@ -333,7 +333,7 @@
      "diff": -10
     },
     "auswaerts": {
-     "platz": 1,
+     "platz": 2,
      "punkte": 22,
      "spiele": 10,
      "tore": 30,
@@ -422,39 +422,39 @@
    "heim_kurz_api": "Köln",
    "auswaerts_kurz_api": "Elversberg",
    "anpfiff": "2026-11-28T15:30",
-   "lambda_heim": 1.666,
-   "lambda_auswaerts": 1.666,
-   "p_heimsieg": 0.3854,
-   "p_remis": 0.2291,
-   "p_auswaertssieg": 0.3855,
+   "lambda_heim": 1.605,
+   "lambda_auswaerts": 1.511,
+   "p_heimsieg": 0.4016,
+   "p_remis": 0.2375,
+   "p_auswaertssieg": 0.3609,
    "modelltipp": {
-    "heim": 1,
-    "auswaerts": 2,
-    "text": "1:2",
-    "erwartete_punkte": 1.044
+    "heim": 2,
+    "auswaerts": 1,
+    "text": "2:1",
+    "erwartete_punkte": 1.09
    },
    "zuversicht": "niedrig",
    "tendenz_offen": true,
    "top_ergebnisse": [
     {
      "ergebnis": "1:1",
-     "p": 0.0992
-    },
-    {
-     "ergebnis": "1:2",
-     "p": 0.0826
+     "p": 0.1075
     },
     {
      "ergebnis": "2:1",
-     "p": 0.0826
+     "p": 0.0863
     },
     {
-     "ergebnis": "2:2",
-     "p": 0.0688
+     "ergebnis": "1:2",
+     "p": 0.0812
+    },
+    {
+     "ergebnis": "1:0",
+     "p": 0.0711
     },
     {
      "ergebnis": "0:1",
-     "p": 0.0595
+     "p": 0.067
     }
    ],
    "tabelle": {
@@ -468,11 +468,11 @@
     },
     "auswaerts": {
      "platz": 8,
-     "punkte": 14,
+     "punkte": 13,
      "spiele": 10,
      "tore": 17,
-     "gegentore": 18,
-     "diff": -1
+     "gegentore": 19,
+     "diff": -2
     }
    },
    "form": {
@@ -510,12 +510,6 @@
     ],
     "auswaerts": [
      {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Union Berlin",
-      "ergebnis": "0:1"
-     },
-     {
       "zeichen": "S",
       "ort": "H",
       "gegner": "Augsburg",
@@ -538,6 +532,12 @@
       "ort": "A",
       "gegner": "Dortmund",
       "ergebnis": "1:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "H",
+      "gegner": "Freiburg",
+      "ergebnis": "0:1"
      }
     ]
    },
@@ -553,39 +553,39 @@
    "heim_kurz_api": "Paderborn",
    "auswaerts_kurz_api": "S04",
    "anpfiff": "2026-11-28T15:30",
-   "lambda_heim": 0.749,
-   "lambda_auswaerts": 0.462,
-   "p_heimsieg": 0.3852,
-   "p_remis": 0.4102,
-   "p_auswaertssieg": 0.2047,
+   "lambda_heim": 0.714,
+   "lambda_auswaerts": 0.535,
+   "p_heimsieg": 0.3523,
+   "p_remis": 0.4074,
+   "p_auswaertssieg": 0.2403,
    "modelltipp": {
     "heim": 0,
     "auswaerts": 0,
     "text": "0:0",
-    "erwartete_punkte": 1.528
+    "erwartete_punkte": 1.509
    },
    "zuversicht": "niedrig",
    "tendenz_offen": true,
    "top_ergebnisse": [
     {
      "ergebnis": "0:0",
-     "p": 0.2978
+     "p": 0.2869
     },
     {
      "ergebnis": "1:0",
-     "p": 0.223
+     "p": 0.2048
     },
     {
      "ergebnis": "0:1",
-     "p": 0.1377
+     "p": 0.1534
     },
     {
      "ergebnis": "1:1",
-     "p": 0.1031
+     "p": 0.1095
     },
     {
      "ergebnis": "2:0",
-     "p": 0.0835
+     "p": 0.0731
     }
    ],
    "tabelle": {
@@ -609,12 +609,6 @@
    "form": {
     "heim": [
      {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "Stuttgart",
-      "ergebnis": "0:2"
-     },
-     {
       "zeichen": "U",
       "ort": "A",
       "gegner": "Werder Bremen",
@@ -637,6 +631,12 @@
       "ort": "H",
       "gegner": "Frankfurt",
       "ergebnis": "2:2"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Leverkusen",
+      "ergebnis": "0:4"
      }
     ],
     "auswaerts": [
@@ -684,39 +684,39 @@
    "heim_kurz_api": "Stuttgart",
    "auswaerts_kurz_api": "Frankfurt",
    "anpfiff": "2026-11-28T18:30",
-   "lambda_heim": 2.781,
-   "lambda_auswaerts": 1.362,
-   "p_heimsieg": 0.6705,
-   "p_remis": 0.1639,
-   "p_auswaertssieg": 0.1656,
+   "lambda_heim": 2.655,
+   "lambda_auswaerts": 1.318,
+   "p_heimsieg": 0.6586,
+   "p_remis": 0.1706,
+   "p_auswaertssieg": 0.1707,
    "modelltipp": {
     "heim": 2,
     "auswaerts": 1,
     "text": "2:1",
-    "erwartete_punkte": 1.622
+    "erwartete_punkte": 1.609
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
      "ergebnis": "2:1",
-     "p": 0.0836
+     "p": 0.0874
     },
     {
      "ergebnis": "3:1",
-     "p": 0.0775
+     "p": 0.0774
     },
     {
      "ergebnis": "2:0",
-     "p": 0.0614
+     "p": 0.0663
     },
     {
      "ergebnis": "1:1",
-     "p": 0.0601
+     "p": 0.0659
     },
     {
-     "ergebnis": "2:2",
-     "p": 0.0569
+     "ergebnis": "3:0",
+     "p": 0.0587
     }
    ],
    "tabelle": {
@@ -772,12 +772,6 @@
     ],
     "auswaerts": [
      {
-      "zeichen": "N",
-      "ort": "A",
-      "gegner": "Leipzig",
-      "ergebnis": "0:6"
-     },
-     {
       "zeichen": "S",
       "ort": "H",
       "gegner": "Köln",
@@ -800,6 +794,12 @@
       "ort": "A",
       "gegner": "Paderborn",
       "ergebnis": "2:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Hoffenheim",
+      "ergebnis": "1:0"
      }
     ]
    },
@@ -818,67 +818,61 @@
    "heim_kurz_api": "Freiburg",
    "auswaerts_kurz_api": "Leipzig",
    "anpfiff": "2026-11-29T15:30",
-   "lambda_heim": 1.78,
-   "lambda_auswaerts": 1.695,
-   "p_heimsieg": 0.4058,
-   "p_remis": 0.2235,
-   "p_auswaertssieg": 0.3707,
+   "lambda_heim": 1.746,
+   "lambda_auswaerts": 1.694,
+   "p_heimsieg": 0.3984,
+   "p_remis": 0.2249,
+   "p_auswaertssieg": 0.3767,
    "modelltipp": {
     "heim": 2,
     "auswaerts": 1,
     "text": "2:1",
-    "erwartete_punkte": 1.087
+    "erwartete_punkte": 1.071
    },
    "zuversicht": "niedrig",
    "tendenz_offen": true,
    "top_ergebnisse": [
     {
      "ergebnis": "1:1",
-     "p": 0.0934
+     "p": 0.0949
     },
     {
      "ergebnis": "2:1",
-     "p": 0.0831
+     "p": 0.0828
     },
     {
      "ergebnis": "1:2",
-     "p": 0.0792
+     "p": 0.0803
     },
     {
      "ergebnis": "2:2",
-     "p": 0.0705
+     "p": 0.0701
     },
     {
      "ergebnis": "1:0",
-     "p": 0.0551
+     "p": 0.056
     }
    ],
    "tabelle": {
     "heim": {
-     "platz": 4,
-     "punkte": 20,
+     "platz": 3,
+     "punkte": 22,
      "spiele": 10,
-     "tore": 20,
+     "tore": 21,
      "gegentore": 10,
-     "diff": 10
+     "diff": 11
     },
     "auswaerts": {
-     "platz": 3,
+     "platz": 4,
      "punkte": 21,
      "spiele": 10,
-     "tore": 29,
+     "tore": 32,
      "gegentore": 14,
-     "diff": 15
+     "diff": 18
     }
    },
    "form": {
     "heim": [
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Schalke",
-      "ergebnis": "2:1"
-     },
      {
       "zeichen": "N",
       "ort": "A",
@@ -902,15 +896,15 @@
       "ort": "H",
       "gegner": "Union Berlin",
       "ergebnis": "2:0"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Elversberg",
+      "ergebnis": "1:0"
      }
     ],
     "auswaerts": [
-     {
-      "zeichen": "S",
-      "ort": "H",
-      "gegner": "Frankfurt",
-      "ergebnis": "6:0"
-     },
      {
       "zeichen": "N",
       "ort": "A",
@@ -934,11 +928,17 @@
       "ort": "H",
       "gegner": "Augsburg",
       "ergebnis": "5:2"
+     },
+     {
+      "zeichen": "S",
+      "ort": "A",
+      "gegner": "Union Berlin",
+      "ergebnis": "5:1"
      }
     ]
    },
    "heimbilanz": "4S 0U 1N, 14:5 Tore",
-   "auswaertsbilanz": "1S 0U 3N, 4:11 Tore",
+   "auswaertsbilanz": "2S 0U 3N, 9:12 Tore",
    "duelle_vorsaison": [
     "2026-01-14 Leipzig 2:0 Freiburg",
     "2026-05-16 Freiburg 4:1 Leipzig"
@@ -952,39 +952,39 @@
    "heim_kurz_api": "Hoffenheim",
    "auswaerts_kurz_api": "Augsburg",
    "anpfiff": "2026-11-29T17:30",
-   "lambda_heim": 2.498,
-   "lambda_auswaerts": 1.649,
-   "p_heimsieg": 0.5629,
-   "p_remis": 0.1883,
-   "p_auswaertssieg": 0.2488,
+   "lambda_heim": 2.377,
+   "lambda_auswaerts": 1.605,
+   "p_heimsieg": 0.5489,
+   "p_remis": 0.1946,
+   "p_auswaertssieg": 0.2565,
    "modelltipp": {
     "heim": 2,
     "auswaerts": 1,
     "text": "2:1",
-    "erwartete_punkte": 1.406
+    "erwartete_punkte": 1.385
    },
-   "zuversicht": "hoch",
+   "zuversicht": "mittel",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
      "ergebnis": "2:1",
-     "p": 0.0813
-    },
-    {
-     "ergebnis": "3:1",
-     "p": 0.0677
-    },
-    {
-     "ergebnis": "2:2",
-     "p": 0.0671
+     "p": 0.0846
     },
     {
      "ergebnis": "1:1",
-     "p": 0.0651
+     "p": 0.0711
     },
     {
-     "ergebnis": "3:2",
-     "p": 0.0559
+     "ergebnis": "2:2",
+     "p": 0.0679
+    },
+    {
+     "ergebnis": "3:1",
+     "p": 0.067
+    },
+    {
+     "ergebnis": "1:2",
+     "p": 0.0571
     }
    ],
    "tabelle": {
@@ -1008,12 +1008,6 @@
    "form": {
     "heim": [
      {
-      "zeichen": "N",
-      "ort": "H",
-      "gegner": "HSV",
-      "ergebnis": "2:3"
-     },
-     {
       "zeichen": "S",
       "ort": "A",
       "gegner": "Gladbach",
@@ -1036,6 +1030,12 @@
       "ort": "H",
       "gegner": "Schalke",
       "ergebnis": "2:1"
+     },
+     {
+      "zeichen": "N",
+      "ort": "A",
+      "gegner": "Frankfurt",
+      "ergebnis": "0:1"
      }
     ],
     "auswaerts": [
@@ -1086,49 +1086,49 @@
    "heim_kurz_api": "Dortmund",
    "auswaerts_kurz_api": "Leverkusen",
    "anpfiff": "2026-11-29T19:30",
-   "lambda_heim": 2.027,
-   "lambda_auswaerts": 0.961,
-   "p_heimsieg": 0.6207,
-   "p_remis": 0.2081,
-   "p_auswaertssieg": 0.1712,
+   "lambda_heim": 1.953,
+   "lambda_auswaerts": 0.971,
+   "p_heimsieg": 0.6024,
+   "p_remis": 0.2154,
+   "p_auswaertssieg": 0.1821,
    "modelltipp": {
     "heim": 1,
     "auswaerts": 0,
     "text": "1:0",
-    "erwartete_punkte": 1.583
+    "erwartete_punkte": 1.551
    },
    "zuversicht": "hoch",
    "tendenz_offen": false,
    "top_ergebnisse": [
     {
-     "ergebnis": "2:0",
-     "p": 0.1035
+     "ergebnis": "1:0",
+     "p": 0.1049
     },
     {
-     "ergebnis": "1:0",
-     "p": 0.1021
+     "ergebnis": "2:0",
+     "p": 0.1024
+    },
+    {
+     "ergebnis": "1:1",
+     "p": 0.1019
     },
     {
      "ergebnis": "2:1",
      "p": 0.0995
     },
     {
-     "ergebnis": "1:1",
-     "p": 0.0981
-    },
-    {
      "ergebnis": "3:0",
-     "p": 0.07
+     "p": 0.0667
     }
    ],
    "tabelle": {
     "heim": {
-     "platz": 2,
-     "punkte": 22,
+     "platz": 1,
+     "punkte": 24,
      "spiele": 10,
-     "tore": 16,
+     "tore": 17,
      "gegentore": 7,
-     "diff": 9
+     "diff": 10
     },
     "auswaerts": {
      "platz": 5,
@@ -1141,12 +1141,6 @@
    },
    "form": {
     "heim": [
-     {
-      "zeichen": "U",
-      "ort": "H",
-      "gegner": "Werder Bremen",
-      "ergebnis": "2:2"
-     },
      {
       "zeichen": "U",
       "ort": "A",
@@ -1170,15 +1164,15 @@
       "ort": "H",
       "gegner": "Elversberg",
       "ergebnis": "2:1"
-     }
-    ],
-    "auswaerts": [
+     },
      {
       "zeichen": "S",
       "ort": "A",
-      "gegner": "Mainz",
-      "ergebnis": "4:3"
-     },
+      "gegner": "Gladbach",
+      "ergebnis": "1:0"
+     }
+    ],
+    "auswaerts": [
      {
       "zeichen": "S",
       "ort": "H",
@@ -1202,6 +1196,12 @@
       "ort": "A",
       "gegner": "Köln",
       "ergebnis": "2:1"
+     },
+     {
+      "zeichen": "S",
+      "ort": "H",
+      "gegner": "Paderborn",
+      "ergebnis": "4:0"
      }
     ]
    },

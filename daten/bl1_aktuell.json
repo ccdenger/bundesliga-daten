@@ -8759,8 +8759,8 @@
    "tla": null,
    "wikidataId": "Q160532"
   },
-  "lastUpdateDateTime": "2026-11-21T16:48:29.877",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-21T17:22:45.207",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131562,
@@ -8801,7 +8801,7 @@
     "goalID": 153675,
     "scoreTeam1": 2,
     "scoreTeam2": 0,
-    "matchMinute": 48,
+    "matchMinute": 47,
     "goalGetterID": 28268,
     "goalGetterName": "A. Moreira",
     "scoringTeamId": 6,
@@ -8827,7 +8827,7 @@
     "goalID": 153678,
     "scoreTeam1": 4,
     "scoreTeam2": 0,
-    "matchMinute": 60,
+    "matchMinute": 59,
     "goalGetterID": 19677,
     "goalGetterName": "E. Fernández",
     "scoringTeamId": 6,
@@ -8842,7 +8842,7 @@
    "locationCity": "Leverkusen",
    "locationStadium": "BayArena"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 29873
  },
  {
   "matchID": 83239,
@@ -8876,8 +8876,8 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-21T16:17:44.487",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-21T17:24:50.76",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131560,
@@ -8920,7 +8920,7 @@
    "locationCity": "Frankfurt",
    "locationStadium": "Deutsche Bank Park"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 59100
  },
  {
   "matchID": 83241,
@@ -8954,8 +8954,8 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-21T16:42:04.21",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-21T17:25:48.093",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131564,
@@ -8971,7 +8971,7 @@
     "resultID": 131565,
     "resultName": "Endergebnis",
     "pointsTeam1": 1,
-    "pointsTeam2": 2,
+    "pointsTeam2": 5,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -8983,7 +8983,7 @@
     "goalID": 153660,
     "scoreTeam1": 0,
     "scoreTeam2": 1,
-    "matchMinute": 17,
+    "matchMinute": 18,
     "goalGetterID": 22891,
     "goalGetterName": "A. Nusa",
     "scoringTeamId": 1635,
@@ -9017,6 +9017,45 @@
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
+   },
+   {
+    "goalID": 153680,
+    "scoreTeam1": 1,
+    "scoreTeam2": 3,
+    "matchMinute": 72,
+    "goalGetterID": 20646,
+    "goalGetterName": "B. Gruda",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153681,
+    "scoreTeam1": 1,
+    "scoreTeam2": 4,
+    "matchMinute": 76,
+    "goalGetterID": 20828,
+    "goalGetterName": "R. Reitz",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153683,
+    "scoreTeam1": 1,
+    "scoreTeam2": 5,
+    "matchMinute": 89,
+    "goalGetterID": 18516,
+    "goalGetterName": "R. Baku",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
    }
   ],
   "location": {
@@ -9024,7 +9063,7 @@
    "locationCity": "Berlin",
    "locationStadium": "Alte Försterei"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 22012
  },
  {
   "matchID": 83242,
@@ -9058,8 +9097,8 @@
    "tla": null,
    "wikidataId": "Q41420"
   },
-  "lastUpdateDateTime": "2026-11-21T16:18:07.19",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-21T17:22:13.223",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131566,
@@ -9075,20 +9114,34 @@
     "resultID": 131567,
     "resultName": "Endergebnis",
     "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
     "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
    }
   ],
-  "goals": [],
+  "goals": [
+   {
+    "goalID": 153682,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 80,
+    "goalGetterID": 19605,
+    "goalGetterName": "F. Nmecha",
+    "scoringTeamId": 7,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 32,
    "locationCity": "Mönchengladbach",
    "locationStadium": "Borussia Park"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 54546
  },
  {
   "matchID": 83245,
@@ -9122,8 +9175,8 @@
    "tla": null,
    "wikidataId": "Q106394"
   },
-  "lastUpdateDateTime": "2026-11-21T16:16:28.373",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-21T17:21:32.747",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131568,
@@ -9139,20 +9192,34 @@
     "resultID": 131569,
     "resultName": "Endergebnis",
     "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam2": 1,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
     "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
    }
   ],
-  "goals": [],
+  "goals": [
+   {
+    "goalID": 153679,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 68,
+    "goalGetterID": 18472,
+    "goalGetterName": "I. Matanovic",
+    "scoringTeamId": 112,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 1002,
    "locationCity": "Elversberg",
    "locationStadium": "Ursapharm-Arena an der Kaiserlinde"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 9307
  },
  {
   "matchID": 83244,
