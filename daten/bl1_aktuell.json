@@ -8759,10 +8759,45 @@
    "tla": null,
    "wikidataId": "Q160532"
   },
-  "lastUpdateDateTime": "2026-11-20T11:50:53.58",
+  "lastUpdateDateTime": "2026-11-21T15:44:43.343",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 131562,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131563,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 153657,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 14,
+    "goalGetterID": 28268,
+    "goalGetterName": "A. Moreira",
+    "scoringTeamId": 6,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 28,
    "locationCity": "Leverkusen",
@@ -8802,10 +8837,45 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-20T11:51:14.787",
+  "lastUpdateDateTime": "2026-11-21T15:54:58.73",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 131560,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131561,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 153661,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 25,
+    "goalGetterID": 19126,
+    "goalGetterName": "J. Burkardt",
+    "scoringTeamId": 91,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 1346,
    "locationCity": "Frankfurt",
@@ -8845,10 +8915,45 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-20T11:51:50.597",
+  "lastUpdateDateTime": "2026-11-21T15:48:13.687",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 131564,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131565,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 153660,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 17,
+    "goalGetterID": 22891,
+    "goalGetterName": "A. Nusa",
+    "scoringTeamId": 1635,
+    "isPenalty": true,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 82,
    "locationCity": "Berlin",
@@ -8888,9 +8993,30 @@
    "tla": null,
    "wikidataId": "Q41420"
   },
-  "lastUpdateDateTime": "2026-11-20T11:52:27.313",
+  "lastUpdateDateTime": "2026-11-21T15:30:27.9",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 131566,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131567,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
   "goals": [],
   "location": {
    "locationID": 32,
@@ -8931,9 +9057,30 @@
    "tla": null,
    "wikidataId": "Q106394"
   },
-  "lastUpdateDateTime": "2026-11-20T11:52:52.843",
+  "lastUpdateDateTime": "2026-11-21T15:30:37.77",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 131568,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131569,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
   "goals": [],
   "location": {
    "locationID": 1002,
