@@ -8759,13 +8759,13 @@
    "tla": null,
    "wikidataId": "Q160532"
   },
-  "lastUpdateDateTime": "2026-11-21T15:44:43.343",
+  "lastUpdateDateTime": "2026-11-21T16:48:29.877",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 131562,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 1,
     "resultTypeID": 1,
@@ -8775,7 +8775,7 @@
    {
     "resultID": 131563,
     "resultName": "Endergebnis",
-    "pointsTeam1": 1,
+    "pointsTeam1": 4,
     "pointsTeam2": 0,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -8791,6 +8791,45 @@
     "matchMinute": 14,
     "goalGetterID": 28268,
     "goalGetterName": "A. Moreira",
+    "scoringTeamId": 6,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153675,
+    "scoreTeam1": 2,
+    "scoreTeam2": 0,
+    "matchMinute": 48,
+    "goalGetterID": 28268,
+    "goalGetterName": "A. Moreira",
+    "scoringTeamId": 6,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153676,
+    "scoreTeam1": 3,
+    "scoreTeam2": 0,
+    "matchMinute": 51,
+    "goalGetterID": 18331,
+    "goalGetterName": "P. Schick",
+    "scoringTeamId": 6,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153678,
+    "scoreTeam1": 4,
+    "scoreTeam2": 0,
+    "matchMinute": 60,
+    "goalGetterID": 19677,
+    "goalGetterName": "E. Fernández",
     "scoringTeamId": 6,
     "isPenalty": false,
     "isOwnGoal": false,
@@ -8837,13 +8876,13 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-21T15:54:58.73",
+  "lastUpdateDateTime": "2026-11-21T16:17:44.487",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 131560,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 1,
     "resultTypeID": 1,
@@ -8915,14 +8954,14 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-21T15:48:13.687",
+  "lastUpdateDateTime": "2026-11-21T16:42:04.21",
   "matchIsFinished": false,
   "matchResults": [
    {
     "resultID": 131564,
     "resultName": "Halbzeit",
-    "pointsTeam1": 0,
-    "pointsTeam2": 0,
+    "pointsTeam1": 1,
+    "pointsTeam2": 1,
     "resultOrderID": 1,
     "resultTypeID": 1,
     "resultTypeKind": "HalfTime",
@@ -8931,8 +8970,8 @@
    {
     "resultID": 131565,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
-    "pointsTeam2": 1,
+    "pointsTeam1": 1,
+    "pointsTeam2": 2,
     "resultOrderID": 2,
     "resultTypeID": 2,
     "resultTypeKind": "After90Minutes",
@@ -8949,6 +8988,32 @@
     "goalGetterName": "A. Nusa",
     "scoringTeamId": 1635,
     "isPenalty": true,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153662,
+    "scoreTeam1": 1,
+    "scoreTeam2": 1,
+    "matchMinute": 41,
+    "goalGetterID": 22667,
+    "goalGetterName": "M. Aebischer",
+    "scoringTeamId": 80,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   },
+   {
+    "goalID": 153677,
+    "scoreTeam1": 1,
+    "scoreTeam2": 2,
+    "matchMinute": 50,
+    "goalGetterID": 7906,
+    "goalGetterName": "Romulo",
+    "scoringTeamId": 1635,
+    "isPenalty": false,
     "isOwnGoal": false,
     "isOvertime": false,
     "comment": null
@@ -8993,7 +9058,7 @@
    "tla": null,
    "wikidataId": "Q41420"
   },
-  "lastUpdateDateTime": "2026-11-21T15:30:27.9",
+  "lastUpdateDateTime": "2026-11-21T16:18:07.19",
   "matchIsFinished": false,
   "matchResults": [
    {
@@ -9057,7 +9122,7 @@
    "tla": null,
    "wikidataId": "Q106394"
   },
-  "lastUpdateDateTime": "2026-11-21T15:30:37.77",
+  "lastUpdateDateTime": "2026-11-21T16:16:28.373",
   "matchIsFinished": false,
   "matchResults": [
    {
