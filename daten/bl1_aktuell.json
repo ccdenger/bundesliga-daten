@@ -8668,7 +8668,7 @@
    "tla": null,
    "wikidataId": "Q104770"
   },
-  "lastUpdateDateTime": "2026-11-20T22:23:56.397",
+  "lastUpdateDateTime": "2026-11-21T18:21:38.077",
   "matchIsFinished": true,
   "matchResults": [
    {
@@ -8725,7 +8725,7 @@
    "locationCity": "München",
    "locationStadium": "Allianz Arena"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 75024
  },
  {
   "matchID": 83238,
@@ -9253,9 +9253,30 @@
    "tla": null,
    "wikidataId": "Q4512"
   },
-  "lastUpdateDateTime": "2026-11-20T11:53:22.503",
+  "lastUpdateDateTime": "2026-11-21T18:30:40.767",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 131576,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131577,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
   "goals": [],
   "location": {
    "locationID": 33,

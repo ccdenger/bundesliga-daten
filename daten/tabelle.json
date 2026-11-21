@@ -119,6 +119,23 @@
   "wikidataId": "Q38245"
  },
  {
+  "teamInfoId": 16,
+  "teamName": "VfB Stuttgart",
+  "shortName": "Stuttgart",
+  "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
+  "points": 13,
+  "opponentGoals": 15,
+  "goals": 15,
+  "matches": 10,
+  "won": 4,
+  "lost": 5,
+  "draw": 1,
+  "goalDiff": 0,
+  "teamId": 16,
+  "tla": null,
+  "wikidataId": "Q4512"
+ },
+ {
   "teamInfoId": 198,
   "teamName": "SV 07 Elversberg",
   "shortName": "Elversberg",
@@ -134,23 +151,6 @@
   "teamId": 198,
   "tla": null,
   "wikidataId": null
- },
- {
-  "teamInfoId": 16,
-  "teamName": "VfB Stuttgart",
-  "shortName": "Stuttgart",
-  "teamIconUrl": "https://i.imgur.com/v0tkpNx.png",
-  "points": 12,
-  "opponentGoals": 15,
-  "goals": 15,
-  "matches": 9,
-  "won": 4,
-  "lost": 5,
-  "draw": 0,
-  "goalDiff": 0,
-  "teamId": 16,
-  "tla": null,
-  "wikidataId": "Q4512"
  },
  {
   "teamInfoId": 175,
@@ -255,6 +255,23 @@
   "wikidataId": "Q15755"
  },
  {
+  "teamInfoId": 9,
+  "teamName": "FC Schalke 04",
+  "shortName": "S04",
+  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
+  "points": 7,
+  "opponentGoals": 11,
+  "goals": 5,
+  "matches": 10,
+  "won": 1,
+  "lost": 5,
+  "draw": 4,
+  "goalDiff": -6,
+  "teamId": 9,
+  "tla": null,
+  "wikidataId": "Q32494"
+ },
+ {
   "teamInfoId": 80,
   "teamName": "1. FC Union Berlin",
   "shortName": "Union Berlin",
@@ -270,23 +287,6 @@
   "teamId": 80,
   "tla": null,
   "wikidataId": "Q141971"
- },
- {
-  "teamInfoId": 9,
-  "teamName": "FC Schalke 04",
-  "shortName": "S04",
-  "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FC_Schalke_04_Logo.png",
-  "points": 6,
-  "opponentGoals": 11,
-  "goals": 5,
-  "matches": 9,
-  "won": 1,
-  "lost": 5,
-  "draw": 3,
-  "goalDiff": -6,
-  "teamId": 9,
-  "tla": null,
-  "wikidataId": "Q32494"
  },
  {
   "teamInfoId": 87,
