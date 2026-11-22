@@ -9317,8 +9317,8 @@
    "tla": null,
    "wikidataId": "Q105254"
   },
-  "lastUpdateDateTime": "2026-11-22T16:42:50.237",
-  "matchIsFinished": false,
+  "lastUpdateDateTime": "2026-11-22T17:25:18.087",
+  "matchIsFinished": true,
   "matchResults": [
    {
     "resultID": 131593,
@@ -9400,7 +9400,7 @@
    "locationCity": "Augsburg",
    "locationStadium": "WWK Arena"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 29680
  },
  {
   "matchID": 83243,
@@ -9434,9 +9434,30 @@
    "tla": null,
    "wikidataId": "Q51974"
   },
-  "lastUpdateDateTime": "2026-11-20T11:54:16.897",
+  "lastUpdateDateTime": "2026-11-22T17:31:56.89",
   "matchIsFinished": false,
-  "matchResults": [],
+  "matchResults": [
+   {
+    "resultID": 131620,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131621,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
   "goals": [],
   "location": {
    "locationID": 36,
