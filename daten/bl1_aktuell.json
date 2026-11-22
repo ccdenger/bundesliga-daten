@@ -9434,7 +9434,7 @@
    "tla": null,
    "wikidataId": "Q51974"
   },
-  "lastUpdateDateTime": "2026-11-22T17:31:56.89",
+  "lastUpdateDateTime": "2026-11-22T18:50:56.71",
   "matchIsFinished": false,
   "matchResults": [
    {
@@ -9450,7 +9450,7 @@
    {
     "resultID": 131621,
     "resultName": "Endergebnis",
-    "pointsTeam1": 0,
+    "pointsTeam1": 1,
     "pointsTeam2": 0,
     "resultOrderID": 2,
     "resultTypeID": 2,
@@ -9458,13 +9458,27 @@
     "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
    }
   ],
-  "goals": [],
+  "goals": [
+   {
+    "goalID": 153785,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 55,
+    "goalGetterID": 19203,
+    "goalGetterName": "M. Friedl",
+    "scoringTeamId": 134,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 36,
    "locationCity": "Bremen",
    "locationStadium": "Weserstadion"
   },
-  "numberOfViewers": null
+  "numberOfViewers": 42100
  },
  {
   "matchID": 83253,
