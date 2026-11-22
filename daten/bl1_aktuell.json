@@ -9317,10 +9317,45 @@
    "tla": null,
    "wikidataId": "Q105254"
   },
-  "lastUpdateDateTime": "2026-11-20T11:53:53.98",
+  "lastUpdateDateTime": "2026-11-22T15:49:23.383",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 131593,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131594,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 1,
+    "pointsTeam2": 0,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 153709,
+    "scoreTeam1": 1,
+    "scoreTeam2": 0,
+    "matchMinute": 19,
+    "goalGetterID": 18815,
+    "goalGetterName": "M. Gregoritsch",
+    "scoringTeamId": 95,
+    "isPenalty": false,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 1029,
    "locationCity": "Augsburg",
