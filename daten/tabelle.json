@@ -90,13 +90,13 @@
   "shortName": "Bremen",
   "teamIconUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
   "points": 18,
-  "opponentGoals": 15,
+  "opponentGoals": 16,
   "goals": 21,
-  "matches": 10,
+  "matches": 11,
   "won": 5,
-  "lost": 2,
+  "lost": 3,
   "draw": 3,
-  "goalDiff": 6,
+  "goalDiff": 5,
   "teamId": 134,
   "tla": null,
   "wikidataId": null
@@ -272,6 +272,23 @@
   "wikidataId": "Q32494"
  },
  {
+  "teamInfoId": 87,
+  "teamName": "Borussia Mönchengladbach",
+  "shortName": "Gladbach",
+  "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
+  "points": 7,
+  "opponentGoals": 26,
+  "goals": 13,
+  "matches": 11,
+  "won": 2,
+  "lost": 8,
+  "draw": 1,
+  "goalDiff": -13,
+  "teamId": 87,
+  "tla": null,
+  "wikidataId": null
+ },
+ {
   "teamInfoId": 80,
   "teamName": "1. FC Union Berlin",
   "shortName": "Union Berlin",
@@ -287,22 +304,5 @@
   "teamId": 80,
   "tla": null,
   "wikidataId": "Q141971"
- },
- {
-  "teamInfoId": 87,
-  "teamName": "Borussia Mönchengladbach",
-  "shortName": "Gladbach",
-  "teamIconUrl": "https://i.imgur.com/KSIk0Eu.png",
-  "points": 4,
-  "opponentGoals": 26,
-  "goals": 12,
-  "matches": 10,
-  "won": 1,
-  "lost": 8,
-  "draw": 1,
-  "goalDiff": -14,
-  "teamId": 87,
-  "tla": null,
-  "wikidataId": null
  }
 ]

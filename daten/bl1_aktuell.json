@@ -9551,10 +9551,45 @@
    "tla": null,
    "wikidataId": null
   },
-  "lastUpdateDateTime": "2026-11-20T11:56:25.813",
+  "lastUpdateDateTime": "2026-11-27T20:57:30.103",
   "matchIsFinished": false,
-  "matchResults": [],
-  "goals": [],
+  "matchResults": [
+   {
+    "resultID": 131823,
+    "resultName": "Halbzeit",
+    "pointsTeam1": 0,
+    "pointsTeam2": 0,
+    "resultOrderID": 1,
+    "resultTypeID": 1,
+    "resultTypeKind": "HalfTime",
+    "resultDescription": "Ergebnis nach Ende der ersten Halbzeit"
+   },
+   {
+    "resultID": 131824,
+    "resultName": "Endergebnis",
+    "pointsTeam1": 0,
+    "pointsTeam2": 1,
+    "resultOrderID": 2,
+    "resultTypeID": 2,
+    "resultTypeKind": "After90Minutes",
+    "resultDescription": "Ergebnis nach Ende der offiziellen Spielzeit"
+   }
+  ],
+  "goals": [
+   {
+    "goalID": 154072,
+    "scoreTeam1": 0,
+    "scoreTeam2": 1,
+    "matchMinute": 27,
+    "goalGetterID": 24242,
+    "goalGetterName": "K. Diks",
+    "scoringTeamId": 87,
+    "isPenalty": true,
+    "isOwnGoal": false,
+    "isOvertime": false,
+    "comment": null
+   }
+  ],
   "location": {
    "locationID": 36,
    "locationCity": "Bremen",
